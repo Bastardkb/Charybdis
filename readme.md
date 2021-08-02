@@ -5,6 +5,8 @@ An ergonomic keyboard with integrated trackball.
 
 Engineered to be a full mouse replacement solution with high-quality, custom-developed components.
 
+Made to be used with the Scylla on the other half.
+
 ![](pics/1aa.png)
 
 # Sourcing the components
