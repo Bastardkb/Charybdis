@@ -13,11 +13,27 @@ Made to be used with the Scylla on the other half.
 
 ## Electronic components
 
-TODO
+
+| Part name                         | Amount | Link                                                                                    |
+| --------------------------------- | ------ | --------------------------------------------------------------------------------------- |
+| Amoebas                           | 56     |                                                                                         |
+| Elite-C                           | 2      |                                                                                         |
+| Elite-C adapter for the Charybdis          | 2      | https://github.com/Bastardkb/mcu-imprint-charybdis                                          |
+| SOD123 Diodes                     | 56     |                                                                                         |
+| Cables                            |        | 28 AWG recommended                                                                      |
+| M4 8mm Torx Screw                 | 16     | Conrad                                                                                  |
+| M4 screw insert, M4 X D6.0 X L5.0 | 16     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
+| Audio jack, SMD                   | 2      |                                                                                         |
+| Button, 4x4x1.5                   | 2      | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
+
+
+### Sensor PCB
 
 You will on top of this need to build the sensor PCB:
 
 https://github.com/Bastardkb/charybdis-pmw-sensor
+
+You will need to source all of the components from the sensor PCB's BOM.
 
 ## Print the case
 
