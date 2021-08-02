@@ -5,7 +5,7 @@ An ergonomic keyboard with integrated trackball.
 
 Engineered to be a full mouse replacement solution with high-quality, custom-developed components.
 
-![](pics/1aa.PNG)
+![](pics/1aa.png)
 
 # Sourcing the components
 
