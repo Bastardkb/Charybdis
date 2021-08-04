@@ -5,12 +5,15 @@ An ergonomic keyboard with integrated trackball.
 
 Engineered to be a full mouse replacement solution with high-quality, custom-developed components.
 
-There are 6x4 and 5x3 versions.
+There are 6x4 and 5x3 Nano versions.
 
 Made to be used with the Scylla or Skeletyl on the other half.
 
-![](pics/1aa.png)
-![](pics/1ab.jpeg)
+| 6x4               | 5x3 Nano           |
+| ----------------- | ------------------ |
+| ![](pics/1aa.png) | ![](pics/1ab.jpeg) |
+
+
 
 # Sourcing the components
 
@@ -31,21 +34,21 @@ Depending on which version you print, you will need more or less of each compone
 
 ### For the 6x4
 
-| Part name                         | Amount | Link                                                                                       |
-| --------------------------------- | ------ | ------------------------------------------------------------------------------------------ |
-| Amoebas                           | 56     |                                                                                            |
-| SOD123 Diodes                     | 56     |                                                                                            |
-| M4 8mm Torx Screw                 | 16     | Conrad                                                                                     |
-| M4 screw insert, M4 X D6.0 X L5.0 | 16     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v    |
+| Part name                         | Amount | Link                                                                                    |
+| --------------------------------- | ------ | --------------------------------------------------------------------------------------- |
+| Amoebas                           | 56     |                                                                                         |
+| SOD123 Diodes                     | 56     |                                                                                         |
+| M4 8mm Torx Screw                 | 16     | Conrad                                                                                  |
+| M4 screw insert, M4 X D6.0 X L5.0 | 16     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
 
 ### For the 5x3
 
-| Part name                         | Amount | Link                                                                                       |
-| --------------------------------- | ------ | ------------------------------------------------------------------------------------------ |
-| Amoebas                           | 35     |                                                                                            |
-| SOD123 Diodes                     | 35     |                                                                                            |
-| M4 8mm Torx Screw                 | 12     | Conrad                                                                                     |
-| M4 screw insert, M4 X D6.0 X L5.0 | 12     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v    |
+| Part name                         | Amount | Link                                                                                    |
+| --------------------------------- | ------ | --------------------------------------------------------------------------------------- |
+| Amoebas                           | 35     |                                                                                         |
+| SOD123 Diodes                     | 35     |                                                                                         |
+| M4 8mm Torx Screw                 | 12     | Conrad                                                                                  |
+| M4 screw insert, M4 X D6.0 X L5.0 | 12     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
 
 ### Sensor PCB
 
