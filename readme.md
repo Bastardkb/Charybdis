@@ -5,28 +5,47 @@ An ergonomic keyboard with integrated trackball.
 
 Engineered to be a full mouse replacement solution with high-quality, custom-developed components.
 
-Made to be used with the Scylla on the other half.
+There are 6x4 and 5x3 versions.
+
+Made to be used with the Scylla or Skeletyl on the other half.
 
 ![](pics/1aa.png)
+![](pics/1ab.jpeg)
 
 # Sourcing the components
 
 ## Electronic components
 
+Depending on which version you print, you will need more or less of each component.
 
-| Part name                         | Amount | Link                                                                                    |
-| --------------------------------- | ------ | --------------------------------------------------------------------------------------- |
-| Amoebas                           | 56     |                                                                                         |
-| Elite-C                           | 2      |                                                                                         |
-| Elite-C adapter for the Charybdis          | 2      | https://github.com/Bastardkb/mcu-imprint-charybdis                                          |
-| SOD123 Diodes                     | 56     |                                                                                         |
-| Cables                            |        | 28 AWG recommended                                                                      |
-| M4 8mm Torx Screw                 | 16     | Conrad                                                                                  |
-| M4 screw insert, M4 X D6.0 X L5.0 | 16     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
-| Audio jack, SMD                   | 2      |                                                                                         |
+### For all versions
+
+| Part name                         | Amount | Link                                                                                       |
+| --------------------------------- | ------ | ------------------------------------------------------------------------------------------ |
+| Elite-C                           | 2      |                                                                                            |
+| Elite-C adapter for the Charybdis | 2      | https://github.com/Bastardkb/mcu-imprint-charybdis                                         |
+| Cables                            |        | 28 AWG recommended                                                                         |
+| Audio jack, SMD                   | 2      |                                                                                            |
 | Button, 4x4x1.5                   | 2      | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
-| Sensor PCB assembly                   | 1      | see details below |
+| Sensor PCB assembly               | 1      | see details below                                                                          |
 
+### For the 6x4
+
+| Part name                         | Amount | Link                                                                                       |
+| --------------------------------- | ------ | ------------------------------------------------------------------------------------------ |
+| Amoebas                           | 56     |                                                                                            |
+| SOD123 Diodes                     | 56     |                                                                                            |
+| M4 8mm Torx Screw                 | 16     | Conrad                                                                                     |
+| M4 screw insert, M4 X D6.0 X L5.0 | 16     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v    |
+
+### For the 5x3
+
+| Part name                         | Amount | Link                                                                                       |
+| --------------------------------- | ------ | ------------------------------------------------------------------------------------------ |
+| Amoebas                           | 35     |                                                                                            |
+| SOD123 Diodes                     | 35     |                                                                                            |
+| M4 8mm Torx Screw                 | 12     | Conrad                                                                                     |
+| M4 screw insert, M4 X D6.0 X L5.0 | 12     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v    |
 
 ### Sensor PCB
 
@@ -45,6 +64,14 @@ Feel free to use and modify them at length. The files are on a non-commercial li
 
 Please find detailed instructions on how to print the case here:
 https://docs.bastardkb.com/hc/en-us/articles/360020031180-Print-settings-for-Dactyls
+
+You will need to print:
+
+- ball adapter, top
+- ball adapter, bottom
+- ball adapter, holder
+
+On top of that, for each part of the keyboard you decide to print (case, plate, tent) you will need to print the other side from the normal keyboard (eg. left Scylla/right Charybdis 6x4, left Skeletyl / right Charybdis Nano 5x3)
 
 ## Get a kit from BastardKB
 
