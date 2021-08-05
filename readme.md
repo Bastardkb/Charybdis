@@ -39,6 +39,7 @@ Depending on which version you print, you will need more or less of each compone
 | Sensor PCB                | 1      | see details below                                                                          |
 | Screws, M3 8mm Torx                | 3      |                                                                           |
 | Heated screw insert, M3x5x5                | 3      |                                                                           |
+| Bearing, MR63-3x6x2.5mm                | 3      |                                                                           |
 
 The 3d files are designed around a custom sensor PCB:
 
@@ -92,7 +93,7 @@ If you want to print the case yourself, you can also get just the electronics Ki
 
 # Build guide
 
-TODO
+Find the build guide at https://docs.bastardkb.com/
 
 # Finding help
 
