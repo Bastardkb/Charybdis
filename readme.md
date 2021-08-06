@@ -30,15 +30,7 @@ Depending on which version you print, you will need more or less of each compone
 | Cables                            |        | 28 AWG recommended                                                                         |
 | Audio jack, SMD                   | 2      |                                                                                            |
 | Button, 4x4x1.5                   | 2      | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
-
-
-### For the sensor PCB (all versions)
-
-| Part name                         | Amount | Link                                                                                       |
-| --------------------------------- | ------ | ------------------------------------------------------------------------------------------ |
 | Sensor PCB                | 1      | see details below                                                                          |
-| Screws, M3 8mm Torx                | 3      |                                                                           |
-| Heated screw insert, M3x5x5                | 3      |                                                                           |
 | Bearing, MR63-3x6x2.5mm                | 3      |                                                                           |
 
 The 3d files are designed around a custom sensor PCB:
@@ -57,6 +49,8 @@ Otherwise, you can also use other sensor PCBs, but you will need to modify the 3
 | SOD123 Diodes                     | 56     |                                                                                         |
 | M4 8mm Torx Screw                 | 16     | Conrad                                                                                  |
 | M4 screw insert, M4 X D6.0 X L5.0 | 16     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
+| Screws, M3 8mm Torx                | 3      |                                                                           |
+| Heated screw insert, M3x5x5                | 3      |                                                                           |
 
 ### For the 5x3
 
@@ -66,6 +60,8 @@ Otherwise, you can also use other sensor PCBs, but you will need to modify the 3
 | SOD123 Diodes                     | 35     |                                                                                         |
 | M4 8mm Torx Screw                 | 12     | Conrad                                                                                  |
 | M4 screw insert, M4 X D6.0 X L5.0 | 12     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
+| Screws, M3 8mm Torx                | 5      |                                                                           |
+| Heated screw insert, M3x5x5                | 5      |                                                                           |
 
 
 ## Print the case
@@ -81,6 +77,8 @@ You will need to print:
 - ball adapter, top
 - ball adapter, bottom
 - ball adapter, holder
+
+Please note the adapter of the 5x3 is not compatible with the 6x4, and vice-versa.
 
 On top of that, for each part of the keyboard you decide to print (case, plate, tent) you will need to print the other side from the normal keyboard (eg. left Scylla/right Charybdis 6x4, left Skeletyl / right Charybdis Nano 5x3)
 
