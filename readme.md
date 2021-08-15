@@ -41,27 +41,17 @@ You will need to source all of the components from the sensor PCB's BOM.
 
 Otherwise, you can also use other sensor PCBs, but you will need to modify the 3d adapter files.
 
-### For the 6x4
+Other components necessary:
 
-| Part name                         | Amount | Link                                                                                    |
-| --------------------------------- | ------ | --------------------------------------------------------------------------------------- |
-| Amoebas                           | 56     |                                                                                         |
-| SOD123 Diodes                     | 56     |                                                                                         |
-| M4 8mm Torx Screw                 | 16     | Conrad                                                                                  |
-| M4 screw insert, M4 X D6.0 X L5.0 | 16     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
-| Screws, M3 8mm Torx                | 3      |                                                                           |
-| Heated screw insert, M3x5x5                | 3      |                                                                           |
+| Part name                         | Amount (6x4) | Amount (5x3) | Link                                                                                    |
+| --------------------------------- | ------ | --------------------------------------------------------------------------------------- |------ |
+| Amoebas                           | 56     |    35     |    Optional, recommended                                                                                       |
+| SOD123 Diodes                     | 56     | 35     |                                                                                              |
+| M4 8mm Torx Screw                 | 16     | 12     |      Conrad                                                                                  |
+| M4 screw insert, M4 X D6.0 X L5.0 | 16     | 12     |      https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
+| Screws, M3 8mm Torx                | 3      |5     |                                                                                 |
+| Heated screw insert, M3x5x5                | 3      |   5     |                                                                              |
 
-### For the 5x3
-
-| Part name                         | Amount | Link                                                                                    |
-| --------------------------------- | ------ | --------------------------------------------------------------------------------------- |
-| Amoebas                           | 35     |                                                                                         |
-| SOD123 Diodes                     | 35     |                                                                                         |
-| M4 8mm Torx Screw                 | 12     | Conrad                                                                                  |
-| M4 screw insert, M4 X D6.0 X L5.0 | 12     | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
-| Screws, M3 8mm Torx                | 5      |                                                                           |
-| Heated screw insert, M3x5x5                | 5      |                                                                           |
 
 
 ## Print the case
