@@ -49,8 +49,8 @@ Other components necessary:
 | SOD123 Diodes                     | 56     | 35     |                                                                                              |
 | M4 8mm Torx Screw                 | 16     | 12     |      Conrad                                                                                  |
 | M4 screw insert, M4 X D6.0 X L5.0 | 16     | 12     |      https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
-| Screws, M3 8mm Torx                | 6      |8     |                                                                                 |
-| Heated screw insert, M3x5x5                | 3      |   5     |                                                                              |
+| Screws, M3 8mm Torx                | 7      |8     |                                                                                 |
+| Heated screw insert, M3x5x5                | 4      |   5     |                                                                              |
 
 
 
@@ -66,7 +66,6 @@ You will need to print:
 
 - ball adapter, top
 - ball adapter, bottom
-- ball adapter, holder
 
 Please note the adapter of the 5x3 is not compatible with the 6x4, and vice-versa.
 
