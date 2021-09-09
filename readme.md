@@ -52,7 +52,11 @@ Other components necessary:
 | Screws, M3 8mm Torx                | 7      |8     |                                                                                 |
 | Heated screw insert, M3x5x5                | 4      |   5     |                                                                              |
 
+## BTU Mod
 
+If you want to use BTUs rather than bearings, you will need to print the bottom adapter btu model, and source some 4.8mm BTUs.
+
+The adapter model is designed around those: https://nl.rs-online.com/web/p/ball-transfer-units/7431408/.
 
 ## Print the case
 
