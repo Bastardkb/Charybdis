@@ -21,8 +21,6 @@ Made to be used with the Scylla or Skeletyl on the other half.
 
 Depending on which version you print, you will need more or less of each component.
 
-### For all versions                                                                                |
-
 The 3d files are designed around a custom sensor PCB:
 
 https://github.com/Bastardkb/charybdis-pmw-sensor
