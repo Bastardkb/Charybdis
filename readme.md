@@ -5,11 +5,11 @@ An ergonomic keyboard with integrated trackball.
 
 Engineered to be a full mouse replacement solution with high-quality, custom-developed components.
 
-There are 6x4 and 5x3 Nano versions.
+There are 4x6 and 3x5 Nano versions.
 
 Made to be used with the Scylla or Skeletyl on the other half.
 
-| 6x4               | 5x3 Nano           |
+| 4x6               | 3x5 Nano           |
 | ----------------- | ------------------ |
 | ![](pics/1aa.png) | ![](pics/1ab.jpeg) |
 
@@ -21,17 +21,7 @@ Made to be used with the Scylla or Skeletyl on the other half.
 
 Depending on which version you print, you will need more or less of each component.
 
-### For all versions
-
-| Part name                         | Amount | Link                                                                                       |
-| --------------------------------- | ------ | ------------------------------------------------------------------------------------------ |
-| Elite-C                           | 2      |                                                                                            |
-| Elite-C adapter for the Charybdis | 2      | https://github.com/Bastardkb/mcu-imprint-charybdis                                         |
-| Cables                            |        | 28 AWG recommended                                                                         |
-| Audio jack, SMD                   | 2      |                                                                                            |
-| Button, 4x4x1.5                   | 2      | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
-| Sensor PCB                | 1      | see details below                                                                          |
-| Bearing, MR63-3x6x2.5mm                | 3      |                                                                           |
+### For all versions                                                                                |
 
 The 3d files are designed around a custom sensor PCB:
 
@@ -41,18 +31,29 @@ You will need to source all of the components from the sensor PCB's BOM.
 
 Otherwise, you can also use other sensor PCBs, but you will need to modify the 3d adapter files.
 
-Other components necessary:
+Components necessary:
 
-| Part name                         | Amount (6x4) | Amount (5x3) | Link                                                                                    |
-| --------------------------------- | ------ | --------------------------------------------------------------------------------------- |------ |
-| Amoebas                           | 56     |    35     |    Optional, recommended                                                                                       |
-| SOD123 Diodes                     | 56     | 35     |                                                                                              |
-| M4 8mm Torx Screw                 | 16     | 12     |      Conrad                                                                                  |
-| M4 screw insert, M4 X D6.0 X L5.0 | 16     | 12     |      https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
-| Screws, M3 8mm Torx                | 7      |8     |                                                                                 |
-| Heated screw insert, M3x5x5                | 4      |   5     |                                                                              |
+| Part name                         | Amount (4x6) | Amount (3x5) | Link                                                                                       |
+| --------------------------------- | ------------ | ------------ | ------------------------------------------------------------------------------------------ |
+| Elite-C                           | 2            | 2            |                                                                                            |
+| Elite-C adapter for the Charybdis | 2            | 2            | https://github.com/Bastardkb/mcu-imprint-charybdis                                         |
+| Cables                            |              |              | 28 AWG recommended                                                                         |
+| Audio jack, SMD                   | 2            | 2            |                                                                                            |
+| Button, 4x4x1.5                   | 2            | 2            | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
+| Sensor PCB                        | 1            | 1            | see details below                                                                          |
+| Bearing, MR63-3x6x2.5mm           | 3            | 3            |                                                                                            |
+| Amoebas                           | 56           | 35           | Optional, recommended                                                                      |
+| SOD123 Diodes                     | 56           | 35           |                                                                                            |
+| M4 8mm Torx Screw                 | 16           | 12           | Conrad                                                                                     |
+| M4 screw insert, M4 X D6.0 X L5.0 | 16           | 12           | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v    |
+| Screws, M3 8mm Torx               | 7            | 8            |                                                                                            |
+| Heated screw insert, M3x5x5       | 4            | 5            |                                                                                            |
 
 ## BTU Mod
+
+Very smooth, *very expensive*.
+
+![](pics/1ac.png)
 
 If you want to use BTUs rather than bearings, you will need to print the bottom adapter btu model, and source some 4.8mm BTUs.
 
@@ -71,9 +72,9 @@ You will need to print:
 - ball adapter, top
 - ball adapter, bottom
 
-Please note the adapter of the 5x3 is not compatible with the 6x4, and vice-versa.
+Please note the adapter of the 3x5 is not compatible with the 4x6, and vice-versa.
 
-On top of that, for each part of the keyboard you decide to print (case, plate, tent) you will need to print the other side from the normal keyboard (eg. left Scylla/right Charybdis 6x4, left Skeletyl / right Charybdis Nano 5x3)
+On top of that, for each part of the keyboard you decide to print (case, plate, tent) you will need to print the other side from the normal keyboard (eg. left Scylla/right Charybdis 4x6, left Skeletyl / right Charybdis Nano 3x5)
 
 ## Get a kit from BastardKB
 
