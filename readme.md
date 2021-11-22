@@ -57,6 +57,14 @@ If you want to use BTUs rather than bearings, you will need to print the bottom 
 
 The adapter model is designed around those: https://nl.rs-online.com/web/p/ball-transfer-units/7431408/.
 
+## Printable BTU Mod
+
+Pretty smooth, *less expensive*.
+
+![](pics/1ad.jpeg)
+
+You can use this option if you don't want to use bearings or buy the expensive BTU part. You will need 3 3.175mm (1/8") ball bearings then print the bottom btu model, and 3 of the printable btu models. Press the balls into the model then insert them into the bottom btu model. 
+
 ## Print the case
 
 The STL files are included in this Github.
