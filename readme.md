@@ -51,6 +51,10 @@ Components necessary:
 
 There are some mods to add BTUs or ball bearings, check the *mods* folder.
 
+
+![](pics/1ac.png)
+
+
 ## Print the case
 
 The STL files are included in this Github.
