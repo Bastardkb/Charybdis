@@ -9,10 +9,9 @@ There are 4x6 and 3x5 Nano versions.
 
 Made to be used with the Scylla or Skeletyl on the other half.
 
-| 4x6               | 3x5 Nano           |
-| ----------------- | ------------------ |
-| ![](pics/1aa.png) | ![](pics/1ab.jpeg) |
+![](pics/1ae.jpg)
 
+![](pics/1af.jpg)
 
 
 # Sourcing the components
