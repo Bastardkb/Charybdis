@@ -39,8 +39,10 @@ Components necessary:
 | Button, 4x4x1.5                   | 2            | 2            | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
 | Sensor PCB                        | 1            | 1            | see details below                                                                          |
 | Bearing, MR63-3x6x2.5mm           | 3            | 3            |                                                                                            |
-| Amoebas                           | 56           | 35           | Optional, recommended                                                                      |
-| SOD123 Diodes                     | 56           | 35           |                                                                                            |
+| Flexible PCB for the plate        | 2            | 2            | https://github.com/Bastardkb/Scylla-PCB-Plate                                              |
+| Flexible PCB for the thumbs       | 2            | 2            | https://github.com/Bastardkb/PCB_thumbs_Charybdis                                          |
+| SOD123 Diodes                     | 8            | 35           |                                                                                            |
+| BAT54C Diodes                     | 24           | 0            |                                                                                            |
 | M4 8mm Torx Screw                 | 16           | 12           | Conrad                                                                                     |
 | M4 screw insert, M4 X D6.0 X L5.0 | 16           | 12           | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v    |
 | Screws, M3 8mm Torx               | 7            | 8            |                                                                                            |
