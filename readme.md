@@ -39,8 +39,11 @@ Components necessary:
 | Button, 4x4x1.5                   | 2            | 2            | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
 | Sensor PCB                        | 1            | 1            | see details below                                                                          |
 | Bearing, MR63-3x6x2.5mm           | 3            | 3            |                                                                                            |
-| Flexible PCB for the plate        | 2            | 2            | https://github.com/Bastardkb/Scylla-PCB-Plate                                              |
-| Flexible PCB for the thumbs       | 2            | 2            | https://github.com/Bastardkb/PCB_thumbs_Charybdis                                          |
+| Flexible PCB for the plate (4x6)  | 2            | 0            | https://github.com/Bastardkb/Scylla-PCB-Plate                                              |
+| Flexible PCB for the plate (3x5)  | 0            | 2            | https://github.com/Bastardkb/Skeletyl-PCB-plate                                            |
+| Flexible PCB for the thumbs       | 1            | 1            | https://github.com/Bastardkb/PCB_thumbs_Charybdis                                          |
+| Flexible PCB for the thumbs (4x6) | 1            | 0            | https://github.com/Bastardkb/Scylla-PCB-thumb-cluster                                      |
+| Flexible PCB for the thumbs (3x5) | 0            | 1            | https://github.com/Bastardkb/TBK-Mini-PCB-thumb-cluster                                    |
 | SOD123 Diodes                     | 8            | 35           |                                                                                            |
 | BAT54C Diodes                     | 24           | 0            |                                                                                            |
 | M4 8mm Torx Screw                 | 16           | 12           | Conrad                                                                                     |
