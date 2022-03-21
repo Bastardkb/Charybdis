@@ -26,4 +26,4 @@ Two versions : with 3.175mm balls, and 4mm balls.
 
 Check repo here: https://github.com/Bastardkb/Charybdis-nano-tent-glow
 
-![](../../pics/1ag.jpeg)
+![](../../pics/1ag.jpg)
