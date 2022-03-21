@@ -21,3 +21,9 @@ You can use this option if you don't want to use bearings or buy the expensive B
 Uses screws instead of pression fit to hold the ball inserts in the model. You will need M3 4mm screws.
 
 Two versions : with 3.175mm balls, and 4mm balls.
+
+## Midglow PCB for the Charybdis Nano tents
+
+Check repo here: https://github.com/Bastardkb/Charybdis-nano-tent-glow
+
+![](../../pics/1ag.jpeg)
