@@ -1,3 +1,11 @@
+# Mods:
+
+- [BTU Mod](#btu-mod)
+- [Printable BTU Mode](#printable-btu-mod)
+  - [Upgraded Insert](#upgraded-inserts-for-the-printable-btu-mod)
+- [Printable BTU Mod - With Screws](#printable-btu-mod---with-screws)
+- [Midglow PCB for the Charybdis Nano tents](#midglow-pcb-for-the-charybdis-nano-tents)
+
 ## BTU Mod
 
 Very smooth, *very expensive*.
@@ -15,6 +23,12 @@ Pretty smooth, *less expensive*.
 ![](../../pics/1ad.jpeg)
 
 You can use this option if you don't want to use bearings or buy the expensive BTU part. You will need 3 3.175mm (1/8") ball bearings then print the bottom btu model, and 3 of the printable btu models. Press the balls into the model then insert them into the bottom btu model. 
+
+### Upgraded inserts for the Printable BTU Mod
+
+A bit taller of inserts, at 5mm tall, and a little more pronounced recess for the bearing ball.
+
+The snap of the bearing ball is a little less intense as a result and gives more surface angle for the ball to rest on, resulting in a more secure seat for the ball.
 
 ## Printable BTU Mod - with screws
 
