@@ -5,6 +5,7 @@
   - [Upgraded Insert](#upgraded-inserts-for-the-printable-btu-mod)
 - [Printable BTU Mod - With Screws](#printable-btu-mod---with-screws)
 - [Midglow PCB for the Charybdis Nano tents](#midglow-pcb-for-the-charybdis-nano-tents)
+- [Trackpad mod for the Charybdis Nano organic tents](#trackpad-mod-for-the-charybdis-nano-organic-tents)
 
 ## BTU Mod
 
