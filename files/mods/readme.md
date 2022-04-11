@@ -62,3 +62,18 @@ Print and snap off supports. Sand the burrs if necessary.
 Check repo here: https://github.com/Bastardkb/Charybdis-nano-tent-glow
 
 ![](../../pics/1ag.jpg)
+
+
+## Trackpad mod for the Charybdis Nano organic tents
+
+Print the 2 files in the `mods/trackpad` folder. Install on the organic tent, connect to sda, scl, vcc, gnd.
+
+Required hardware:
+
+
+| Part name                         | Amount | Link                                                                                    |
+| --------------------------------- | ------ | --------------------------------------------------------------------------------------- |
+| M4 8mm Torx Screw                 | 5      | Conrad                                                                                  |
+| M4 screw insert, M4 X D6.0 X L5.0 | 5      | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
+
+![](../../pics/1ah.png)
