@@ -65,6 +65,8 @@ Check repo here: https://github.com/Bastardkb/Charybdis-nano-tent-glow
 
 ![](../../pics/1ag.jpg)
 
+**Please note only the organic tent is compatible with the midglow rgb !**
+
 
 ## Trackpad mod for the Charybdis
 

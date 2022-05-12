@@ -76,6 +76,12 @@ Please note the adapter of the 3x5 is not compatible with the 4x6, and vice-vers
 
 On top of that, for each part of the keyboard you decide to print (case, plate, tent) you will need to print the other side from the normal keyboard (eg. left Scylla/right Charybdis 4x6, left Skeletyl / right Charybdis Nano 3x5)
 
+## Printing the tents and plates
+
+If you are printing a Charybdis 4x6, just print the plates and optional tent.
+
+If you are printing a Charybdis Nano 3x5, there are multiple options available - take a look at the `readme` in the `3x5` folder
+
 ## Get a kit from BastardKB
 
 You can get a full Kit, including case and all PCBs and electronics required on the shop:
