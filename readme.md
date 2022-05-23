@@ -51,6 +51,18 @@ Components necessary:
 | Screws, M3 8mm Torx               | 7            | 8            |                                                                                            |
 | Heated screw insert, M3x5x5       | 4            | 5            |                                                                                            |
 
+
+If you want RGB, you will also need:
+
+| Part name          |  Amount (4x6) | Amount (3x5)  | Link       |
+| ------------------ | ------ | ---------- |
+| SK6812 Mini-E LEDs | 58  |    | Aliexpress |
+| Capacitor, 1uF          | 4  |  35   | 1206                                  |
+| Resistor, 330Ohms       | 4   |  4  | 1206                                  |
+| Wires                   |     |    | 28 AWG recommended, Black, Red, Color |
+| Ribbon cables Flexstrip | 6    | 6  |             
+
+
 ## Mods
 
 There are some mods to add BTUs or ball bearings, check the *mods* folder.
