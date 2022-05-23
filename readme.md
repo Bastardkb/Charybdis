@@ -55,12 +55,12 @@ Components necessary:
 If you want RGB, you will also need:
 
 | Part name          |  Amount (4x6) | Amount (3x5)  | Link       |
-| ------------------ | ------ | ---------- |
-| SK6812 Mini-E LEDs | 58  |    | Aliexpress |
-| Capacitor, 1uF          | 4  |  35   | 1206                                  |
+| ------------------ | ------ | ---------- | ---------- |
+| SK6812 Mini-E LEDs | 58  | 35  | Aliexpress |
+| Capacitor, 1uF          | 4  |  4   | 1206                                  |
 | Resistor, 330Ohms       | 4   |  4  | 1206                                  |
 | Wires                   |     |    | 28 AWG recommended, Black, Red, Color |
-| Ribbon cables Flexstrip | 6    | 6  |             
+| Ribbon cables Flexstrip | 6    | 6  |    |             
 
 
 ## Mods
