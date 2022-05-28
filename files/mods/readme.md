@@ -6,9 +6,9 @@
   - [Printable BTU Mod - with screws](#printable-btu-mod---with-screws)
     - [Upgraded inserts for the Printable BTU Mod](#upgraded-inserts-for-the-printable-btu-mod)
   - [Midglow PCB for the Charybdis Nano tents](#midglow-pcb-for-the-charybdis-nano-tents)
+  - [Trackpad mod for the Charybdis](#trackpad-mod-for-the-charybdis)
   - [Trackpad mod for the Charybdis Nano organic tents](#trackpad-mod-for-the-charybdis-nano-organic-tents)
   - [Chair Mount Plate](#chair-mount-plate)
-
 ## BTU Mod
 
 Very smooth, *very expensive*.
@@ -66,10 +66,29 @@ Check repo here: https://github.com/Bastardkb/Charybdis-nano-tent-glow
 
 ![](../../pics/1ag.jpg)
 
+**Please note only the organic tent is compatible with the midglow rgb !**
+
+
+## Trackpad mod for the Charybdis
+
+Print the 2 files in the `mods/trackpad/trackball-holder` folder. Install in place of the trackball holder.
+Connect the trackpad to sda, scl, vcc, gnd.
+
+
+Required hardware:
+
+
+| Part name                         | Amount | Link                                                                                    |
+| --------------------------------- | ------ | --------------------------------------------------------------------------------------- |
+| M4 8mm Torx Screw                 | 1      | Conrad                                                                                  |
+| M4 screw insert, M4 X D6.0 X L5.0 | 1      | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
+
+![](../../pics/1ai.png)
+
 
 ## Trackpad mod for the Charybdis Nano organic tents
 
-Print the 2 files in the `mods/trackpad` folder. Install on the organic tent, connect to sda, scl, vcc, gnd.
+Print the 2 files in the `mods/trackpad/3x5-tent` folder. Install on the organic tent, connect to sda, scl, vcc, gnd.
 
 Required hardware:
 

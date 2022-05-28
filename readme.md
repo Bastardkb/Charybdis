@@ -51,6 +51,18 @@ Components necessary:
 | Screws, M3 8mm Torx               | 7            | 8            |                                                                                            |
 | Heated screw insert, M3x5x5       | 4            | 5            |                                                                                            |
 
+
+If you want RGB, you will also need:
+
+| Part name          |  Amount (4x6) | Amount (3x5)  | Link       |
+| ------------------ | ------ | ---------- | ---------- |
+| SK6812 Mini-E LEDs | 58  | 35  | Aliexpress |
+| Capacitor, 1uF          | 4  |  4   | 1206                                  |
+| Resistor, 330Ohms       | 4   |  4  | 1206                                  |
+| Wires                   |     |    | 28 AWG recommended, Black, Red, Color |
+| Ribbon cables Flexstrip | 6    | 6  |    |             
+
+
 ## Mods
 
 There are some mods to add BTUs or ball bearings, check the *mods* folder.
@@ -75,6 +87,12 @@ You will need to print:
 Please note the adapter of the 3x5 is not compatible with the 4x6, and vice-versa.
 
 On top of that, for each part of the keyboard you decide to print (case, plate, tent) you will need to print the other side from the normal keyboard (eg. left Scylla/right Charybdis 4x6, left Skeletyl / right Charybdis Nano 3x5)
+
+## Printing the tents and plates
+
+If you are printing a Charybdis 4x6, just print the plates and optional tent.
+
+If you are printing a Charybdis Nano 3x5, there are multiple options available - take a look at the `readme` in the `3x5` folder
 
 ## Get a kit from BastardKB
 
