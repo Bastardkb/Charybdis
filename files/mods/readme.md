@@ -1,13 +1,14 @@
 # Mods:
 
-- [BTU Mod](#btu-mod)
-- [Printable BTU Mode](#printable-btu-mod)
-  - [Upgraded Insert](#upgraded-inserts-for-the-printable-btu-mod)
-- [Printable BTU Mod - With Screws](#printable-btu-mod---with-screws)
-- [Midglow PCB for the Charybdis Nano tents](#midglow-pcb-for-the-charybdis-nano-tents)
-- [Trackpad mod for the Charybdis](#trackpad-mod-for-the-charybdis)
-- [Trackpad mod for the Charybdis Nano organic tents](#trackpad-mod-for-the-charybdis-nano-organic-tents)
-
+- [Mods:](#mods)
+  - [BTU Mod](#btu-mod)
+  - [Printable BTU Mod](#printable-btu-mod)
+  - [Printable BTU Mod - with screws](#printable-btu-mod---with-screws)
+    - [Upgraded inserts for the Printable BTU Mod](#upgraded-inserts-for-the-printable-btu-mod)
+  - [Midglow PCB for the Charybdis Nano tents](#midglow-pcb-for-the-charybdis-nano-tents)
+  - [Trackpad mod for the Charybdis](#trackpad-mod-for-the-charybdis)
+  - [Trackpad mod for the Charybdis Nano organic tents](#trackpad-mod-for-the-charybdis-nano-organic-tents)
+  - [Chair Mount Plate](#chair-mount-plate)
 ## BTU Mod
 
 Very smooth, *very expensive*.
@@ -98,3 +99,9 @@ Required hardware:
 | M4 screw insert, M4 X D6.0 X L5.0 | 5      | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
 
 ![](../../pics/1ah.png)
+
+## Chair Mount Plate
+Alternate bottom plate for mounting to a chair or desk using standard camera mounting equipment. Fits 1/4 inch mounting bolt (1/4-20 UNC).
+Found in the `3x5 nano/chairMountPlate` folder.  
+  
+![](../../pics/1aj.png)
