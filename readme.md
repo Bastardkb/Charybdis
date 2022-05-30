@@ -48,8 +48,8 @@ Components necessary:
 | BAT54C Diodes                     | 24           | 0            |                                                                                            |
 | M4 8mm Torx Screw                 | 16           | 12           | Conrad                                                                                     |
 | M4 screw insert, M4 X D6.0 X L5.0 | 16           | 12           | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v    |
-| Screws, M3 8mm Torx               | 7            | 8            |                                                                                            |
-| Heated screw insert, M3x5x5       | 4            | 5            |                                                                                            |
+| Screws, M3 8mm Torx               | 8            | 8            |                                                                                            |
+| Heated screw insert, M3x5x5       | 5            | 5            |                                                                                            |
 
 
 If you want RGB, you will also need:
