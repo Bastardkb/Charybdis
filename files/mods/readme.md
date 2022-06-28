@@ -118,4 +118,4 @@ Note: Below picture uses a standard Skeletyl main body that was cut to make room
 | M4 8mm Torx Screw                 | 2      | Conrad                                                                                  |
 | M4 screw insert, M4 X D6.0 X L5.0 | 2      | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
 
-![](../../pics/mtc.png)
+![](../../pics/MTC.png)
