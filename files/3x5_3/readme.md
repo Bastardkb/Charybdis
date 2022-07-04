@@ -9,3 +9,12 @@ The low version's trackball will interfere with the base plate requiring a cutou
 
 ## Plates
 The chairmount plates requires a heat insert for 1/4 inch camera mount threads.
+
+High Version  
+![](../../pics/1ak.png)
+  
+Low Version  
+![](../../pics/1al.png)
+  
+The required cut in the plate to fit the trackball in the low version.  
+![](../../pics/1am.png)
