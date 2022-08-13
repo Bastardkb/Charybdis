@@ -1,8 +1,17 @@
 # 3x5+3
+Modification of the Skeletyl to add a trackball, encoder and other mods. 
+# Firmware
+There is currently no official firmware for this build yet. Depending on which MCU is used the develop branch of QMK might need to be used.  
 
+## Trackball
+Base the firmware build off of bastardkb/charybdis/3x5 and copy the keymap from the Skeletyl to get the third thumb key on the right hand side.   
+Trackball rotation adjustments would need to be made to the trackball orientation in the config.c file.  
+## Encoder
+To add the encoder The encoder functionality needs to be added as well as adding another key to the keymap for the push key on the encoder. The 12 LEDS need to be added to the map.   
+Reference https://github.com/Bastardkb/Charybdis-EC11 for instructions on how it's wired.  
 # Mounted Mods
 This is a mod of the Skeletyl v4. This gives the ability to mount different mods to the inside or top of the keyboard.  
-The mounting holes use M4 screws with heat inserts that are 45mm apart.
+The mounting holes use M4 screws with heat inserts that are 45mm apart.  
 JST XH 2.5mm connectors were used to attach the mods to the MCU board so they can be swapped out easily.
 
 Assembled
@@ -27,7 +36,7 @@ The knobs provided use the round shaft.
 There are two knob variants a blank one and one with a second iteration Sierpiński triangle design. Both variants have domes for one finger top operation.  
 
 ## Plates
-Any of the Skeletyl v4 tents and plates can be used. The ones shown in the picture is the 30 degree alien tent with voronoi plate. Beware of interference with non tented options as the bottom of the mods protrude slightly.     
+Any of the Skeletyl v4 plates can be used. The tenting models are in the Chaybdis/3x5 nano/tent the ones shown in the picture is the 30 degree alien tent with voronoi plate. Beware of interference with non tented options as the bottom of the mods protrude slightly.     
   
 # HighTrackball and LowTrackball
 This is a mod of the Skeletyl v3 to add the trackball mount to the inside of the keyboard. 
