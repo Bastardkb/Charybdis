@@ -9,6 +9,7 @@
   - [Trackpad mod for the Charybdis](#trackpad-mod-for-the-charybdis)
   - [Trackpad mod for the Charybdis Nano organic tents](#trackpad-mod-for-the-charybdis-nano-organic-tents)
   - [Chair Mount Plate](#chair-mount-plate)
+  - [Modular Thumb Cluster](#modular-thumb-cluster)
 ## BTU Mod
 
 Very smooth, *very expensive*.
@@ -19,7 +20,7 @@ If you want to use BTUs rather than bearings, you will need to print the bottom 
 
 The adapter model is designed around those: https://nl.rs-online.com/web/p/ball-transfer-units/7431408/.
 
-Print: 
+Print:
 - [adapter_btu_bottom_v32.stl](btu/adapter_btu_bottom_v32.stl)
 
 Note/Reminder: you will need to source your own 4.8mm BTU
@@ -30,11 +31,14 @@ Pretty smooth, *less expensive*.
 
 ![](../../pics/1ad.jpeg)
 
-You can use this option if you don't want to use bearings or buy the expensive BTU part. You will need 3 3.175mm (1/8") ball bearings then print the bottom btu model, and 3 of the printable btu models. Press the balls into the model then insert them into the bottom btu model.
+You can use this option if you don't want to use bearings or buy the expensive BTU part. 
+There are files for 3.175mm (1/8"), and 2.5mm balls, you will need to print 3 of them as well as the bottom btu model. 
 
-Print:
+Press the balls into the model then insert them into the bottom btu model.
+
+Links:
 - [Bottom BTU Model](printable-btu-screws/bottom.stl)
-- [Inserts](printable-btu/printable_btu_3.175mm_ball.stl)
+- [Inserts](printable-btu) (choose either 3.175mm or 2.5mm)
 
 ## Printable BTU Mod - with screws
 
@@ -54,7 +58,7 @@ A bit taller of inserts, at 5mm tall, and a little more pronounced recess for th
 
 The snap of the bearing ball is a little less intense as a result and gives more surface angle for the ball to rest on, resulting in a more secure seat for the ball.
 
-Print: 
+Print:
 - [Bottom BTU Model](printable-btu-screws/bottom.stl)
 - [tall-inserts.stl](printable-btu-screws/balls-3.1mm/tall-inserts.stl)
 
@@ -103,5 +107,18 @@ Required hardware:
 ## Chair Mount Plate
 Alternate bottom plate for mounting to a chair or desk using standard camera mounting equipment. Fits 1/4 inch mounting bolt (1/4-20 UNC).
 Found in the `3x5 nano/chairMountPlate` folder.  
-  
+
 ![](../../pics/1aj.png)
+
+## Modular Thumb Cluster
+Based on the 3x5 Skeletyl/Charybdis Nano. This has a slightly modified plate, a 3 switch thumb cluster (ala Skeletyl), a 2 switch thumb cluster with the mount for a trackball/trackpad (ala Charybdis Nano) and a modified main body
+
+Note: Below picture uses a standard Skeletyl main body that was cut to make room for the modular thumb cluster but a purpose printed main body should give better results!
+
+
+| Part name                         | Amount | Link                                                                                    |
+| --------------------------------- | ------ | --------------------------------------------------------------------------------------- |
+| M4 8mm Torx Screw                 | 2      | Conrad                                                                                  |
+| M4 screw insert, M4 X D6.0 X L5.0 | 2      | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
+
+![](../../pics/MTC.png)
