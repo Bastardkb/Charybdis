@@ -10,6 +10,9 @@
   - [Trackpad mod for the Charybdis Nano organic tents](#trackpad-mod-for-the-charybdis-nano-organic-tents)
   - [Chair Mount Plate](#chair-mount-plate)
   - [Modular Thumb Cluster](#modular-thumb-cluster)
+  - [Modular adjustable tenting stand for Charybdis/Scylla](#modular-adjustable-tenting-stand-for-charybdisscylla)
+    - [Base](#base)
+    - [Variant with wrist wrest](#variant-with-wrist-wrest)
 ## BTU Mod
 
 Very smooth, *very expensive*.
@@ -122,3 +125,15 @@ Note: Below picture uses a standard Skeletyl main body that was cut to make room
 | M4 screw insert, M4 X D6.0 X L5.0 | 2      | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
 
 ![](../../pics/MTC.png)
+
+## Modular adjustable tenting stand for Charybdis/Scylla
+
+Details: [tenting-stand-with-wrist-pads/readme.md](tenting-stand-with-wrist-pads/readme.md)
+
+### Base
+
+![tenting stand](tenting-stand-with-wrist-pads/assets/stand.jpg)
+
+### Variant with wrist wrest
+
+![tending stand with wrist wrests](tenting-stand-with-wrist-pads/assets/home-with-pads.jpg)
