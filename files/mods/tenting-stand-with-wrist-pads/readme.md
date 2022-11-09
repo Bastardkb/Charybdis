@@ -23,6 +23,14 @@
 
 - [Bottom - bottom.3mf](bottom.3mf)
 - [Top plate - plate.3mf](plate.3mf) - This must be mirrored for another side
+  
+  Alternatively you can print remixed bottom case plates for Scylla/Charybdis, mirror appropriately if required. This should reduce several millimeters.
+  
+  - [Scylla bottom plate hinges](left-case-bottom-scylla.3mf)
+  - [Charybdis bottom plate with hinges](right-case-bottom-charybdis.3mf)
+
+  Print them vertically like so: ![print-position](assets/print-position.png)
+  
 - [Tending arm - tenting-arm.3mf](tenting-arm.3mf)
 
 ### Additional parts for wrist wrest
