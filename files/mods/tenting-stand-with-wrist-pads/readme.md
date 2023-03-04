@@ -43,6 +43,11 @@ See folder `wrist-pad-variant-parts` for more files
 - [Connecting arm - pads-arm.3mf](wrist-pad-variant-parts/pads-arm.3mf)
 - [Optional hight extension - pads-optional-extension.3mf](wrist-pad-variant-parts/pads-optional-extension.3mf)
 
+Updated alternatives
+
+- [Short arm for angled pad base - pads-arm-short-for-angled-base.3mf](wrist-pad-variant-parts/pads-arm-short-for-angled-base.3mf)
+- [Angled bottom part that connect to the arm - pads-base-angled.3mf](wrist-pad-variant-parts/pads-base-angled.3mf)
+
 ## Source
 
 If you wanna play around with models, I've attached fusion files:
@@ -59,3 +64,6 @@ If you wanna play around with models, I've attached fusion files:
 ![top-with-pads](assets/top-with-pads.jpg)
 ![front-with-pads](assets/front-with-pads.jpg)
 ![under-with-pads](assets/under-with-pads.jpg)
+
+![angled-pad](assets/angled-pad.png)
+![with-angled-pads](assets/with-angled-pads.png)
