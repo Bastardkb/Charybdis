@@ -13,6 +13,7 @@
   - [Modular adjustable tenting stand for Charybdis/Scylla](#modular-adjustable-tenting-stand-for-charybdisscylla)
     - [Base](#base)
     - [Variant with wrist wrest](#variant-with-wrist-wrest)
+  - [Trackball cover](#trackball-cover)
 ## BTU Mod
 
 Very smooth, *very expensive*.
@@ -137,3 +138,9 @@ Details: [tenting-stand-with-wrist-pads/readme.md](tenting-stand-with-wrist-pads
 ### Variant with wrist wrest
 
 ![tending stand with wrist wrests](tenting-stand-with-wrist-pads/assets/home-with-pads.jpg)
+
+## Trackball cover
+
+A trackball sensor cover to be used in combination with the original bottom cover. Protects the sensor from outside elements.
+
+File is in [trackball-cover](trackball-cover).
