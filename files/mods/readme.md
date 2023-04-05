@@ -141,4 +141,6 @@ Details: [tenting-stand-with-wrist-pads/readme.md](tenting-stand-with-wrist-pads
 
 ## Trackball cover
 
-A trackball cover to be used with the originial bottom cover. File is in [trackball-cover](trackball-cover).
+A trackball sensor cover to be used in combination with the original bottom cover. Protects the sensor from outside elements.
+
+File is in [trackball-cover](trackball-cover).
