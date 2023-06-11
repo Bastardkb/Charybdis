@@ -10,6 +10,10 @@
   - [Trackpad mod for the Charybdis Nano organic tents](#trackpad-mod-for-the-charybdis-nano-organic-tents)
   - [Chair Mount Plate](#chair-mount-plate)
   - [Modular Thumb Cluster](#modular-thumb-cluster)
+  - [Modular adjustable tenting stand for Charybdis/Scylla](#modular-adjustable-tenting-stand-for-charybdisscylla)
+    - [Base](#base)
+    - [Variant with wrist wrest](#variant-with-wrist-wrest)
+  - [Trackball cover](#trackball-cover)
 ## BTU Mod
 
 Very smooth, *very expensive*.
@@ -31,11 +35,14 @@ Pretty smooth, *less expensive*.
 
 ![](../../pics/1ad.jpeg)
 
-You can use this option if you don't want to use bearings or buy the expensive BTU part. You will need 3 3.175mm (1/8") ball bearings then print the bottom btu model, and 3 of the printable btu models. Press the balls into the model then insert them into the bottom btu model.
+You can use this option if you don't want to use bearings or buy the expensive BTU part. 
+There are files for 3.175mm (1/8"), and 2.5mm balls, you will need to print 3 of them as well as the bottom btu model. 
 
-Print:
+Press the balls into the model then insert them into the bottom btu model.
+
+Links:
 - [Bottom BTU Model](printable-btu-screws/bottom.stl)
-- [Inserts](printable-btu/printable_btu_3.175mm_ball.stl)
+- [Inserts](printable-btu) (choose either 3.175mm or 2.5mm)
 
 ## Printable BTU Mod - with screws
 
@@ -119,3 +126,21 @@ Note: Below picture uses a standard Skeletyl main body that was cut to make room
 | M4 screw insert, M4 X D6.0 X L5.0 | 2      | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
 
 ![](../../pics/MTC.png)
+
+## Modular adjustable tenting stand for Charybdis/Scylla
+
+Details: [tenting-stand-with-wrist-pads/readme.md](tenting-stand-with-wrist-pads/readme.md)
+
+### Base
+
+![tenting stand](tenting-stand-with-wrist-pads/assets/stand.jpg)
+
+### Variant with wrist wrest
+
+![tending stand with wrist wrests](tenting-stand-with-wrist-pads/assets/home-with-pads.jpg)
+
+## Trackball cover
+
+A trackball sensor cover to be used in combination with the original bottom cover. Protects the sensor from outside elements.
+
+File is in [trackball-cover](trackball-cover).

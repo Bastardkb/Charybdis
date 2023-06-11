@@ -7,7 +7,7 @@ Engineered to be a full mouse replacement solution with high-quality, custom-dev
 
 There are 4x6 and 3x5 Nano versions.
 
-Made to be used with the Scylla or Skeletyl on the other half.
+Made to be used with the [Scylla](https://github.com/Bastardkb/Scylla) or [Skeletyl](https://github.com/Bastardkb/Skeletyl) on the other half.
 
 ![](pics/1ae.jpg)
 
