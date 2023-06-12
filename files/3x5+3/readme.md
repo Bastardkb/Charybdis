@@ -23,12 +23,18 @@ Disassembled
 Currently only the top mount options has been developed.
 
 ### Trackball Mod
+#### Top Trackball
 There are two of trackball sizes available 55mm or a 57.15 mm (2.25 inch) billiard ball.  
 Two M3 screws are used to mount the cover/sensor board.
 The ball bearings are 3.175mm (1/8 inch).  
 They are designed for a pmw3360 or pmw3389 board from tindie.  
 The charybdis-pmw-3360-sensor-pcb could be used but the bottom cover will not fit and the holes are slightly off but the heat insert could be adjusted to get it to work.  
 There is a bottom version specific to the 30 degree tented version that has an angled stand to support the trackball weight.  
+#### Inside Trackball
+This mod uses a 34 mm trackball and the adapter from the Charybdis 3x5. This mod does work when not tented. When tented the trackball is not seated completely and does wobble.   
+This could also be used to mount an encoder.  
+Use the CharybdisRingMountMod file.  
+![](../../pics/1ap.png)
 
 ### Encoder Mod
 This uses the Charybdis EC11 pcb board with a 20mm tall EC11 encoder.  
@@ -39,11 +45,12 @@ There are two knob variants a blank one and one with a second iteration Sierpiń
 Any of the Skeletyl v4 plates can be used. The tenting models are in the Chaybdis/3x5 nano/tent the ones shown in the picture is the 30 degree alien tent with voronoi plate. Beware of interference with non tented options as the bottom of the mods protrude slightly.     
   
 # HighTrackball and LowTrackball
-This is a mod of the Skeletyl v3 to add the trackball mount to the inside of the keyboard. 
+This is a mod of the Skeletyl v3 to add the trackball mount to the inside of the keyboard.   
+**A thick base plate (no model provided) or tenting is required for either version to sit flush on a surface.** 
 
-The tall version will not interfere with the base plate allowing any Skeletyl v3 base plates and tents to be used.
+The tall version will not interfere with the base plate allowing any Skeletyl v3 base plates and tents to be used. 
 
-The low version's trackball will interfere with the base plate requiring a cutout in the plate for it to fit. This also means it will not lay flat and requires tenting.
+The low version's trackball will interfere with the base plate requiring a cutout in the plate for it to fit. 
 
 
 ## Plates
