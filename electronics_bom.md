@@ -2,7 +2,7 @@
 | Part name                         | Amount (4x6) | Amount (3x6) |  Amount (3x5) | Link                                                                                       |
 | --------------------------------- | ------------ | ------------ | ------------  | ------------------------------------------------------------------------------------------ |
 | Sensor PCB                        | 1            | 1            | 1             | https://github.com/Bastardkb/charybdis-pmw-sensor                                          |
-| Splinky                           | 2            | 2            | 2             |                                                                                            |
+| Splinky                           | 2            | 2            | 2             | https://github.com/bastardkb/splinky                                                                                            |
 | Splinky adapter for the Charybdis | 2            | 2            | 2             | https://github.com/Bastardkb/Elite-C-holder                                         |
 | Cables                            |              |              |               | 28 AWG recommended                                                                         |
 | Audio jack, SMD                   | 2            | 2            | 2             |                                                                                            |
