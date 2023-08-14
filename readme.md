@@ -5,9 +5,9 @@ An ergonomic keyboard with integrated trackball.
 
 Engineered to be a full mouse replacement solution with high-quality, custom-developed components.
 
-There are 4x6 and 3x5 Nano versions.
+There are 4x6, 3x6 "Mini" and 3x5 "Nano" versions.
 
-Made to be used with the [Scylla](https://github.com/Bastardkb/Scylla) or [Skeletyl](https://github.com/Bastardkb/Skeletyl) on the other half.
+Made to be used with the [Scylla](https://github.com/Bastardkb/Scylla), [TKB Mini](https://github.com/Bastardkb/TBK-Mini) or [Skeletyl](https://github.com/Bastardkb/Skeletyl) on the other half.
 
 ![](pics/1ae.jpg)
 
