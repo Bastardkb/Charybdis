@@ -19,7 +19,7 @@ Made to be used with the [Scylla](https://github.com/Bastardkb/Scylla), [TKB Min
 
 ## 3d prints - cases
 
-The STL files are included in this Github repository, in the `files` folder..
+The STL files are included in this Github repository, in the `files` folder.
 
 Please find detailed instructions on how to print the case here:
 https://docs.bastardkb.com/hc/en-us/articles/360020031180-Print-settings-for-Dactyls
