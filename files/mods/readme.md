@@ -2,6 +2,7 @@
 
 - [Mods:](#mods)
   - [BTU Mod](#btu-mod)
+  - [Veichu Bearing Mod](#veichu-bearing-mod)
   - [Printable BTU Mod](#printable-btu-mod)
   - [Printable BTU Mod - with screws](#printable-btu-mod---with-screws)
     - [Upgraded inserts for the Printable BTU Mod](#upgraded-inserts-for-the-printable-btu-mod)
@@ -24,10 +25,16 @@ If you want to use BTUs rather than bearings, you will need to print the bottom 
 
 The adapter model is designed around those: https://nl.rs-online.com/web/p/ball-transfer-units/7431408/.
 
-Print:
-- [adapter_btu_bottom_v32.stl](btu/adapter_btu_bottom_v32.stl)
+Print the file in the `btu` folder.
 
-Note/Reminder: you will need to source your own 4.8mm BTU
+## Veichu Bearing Mod
+
+The veichu bearings are a cheaper alternative to the BTUs. 
+
+They need to be press-fitted into the 3d print, as they have no screws.
+
+Print the file in the `veichu` folder.
+
 
 ## Printable BTU Mod
 
