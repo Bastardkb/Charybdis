@@ -15,6 +15,7 @@
     - [Base](#base)
     - [Variant with wrist wrest](#variant-with-wrist-wrest)
   - [Trackball cover](#trackball-cover)
+  - [Alternative sensors](#alternative-sensors)
 ## BTU Mod
 
 Very smooth, *very expensive*.
@@ -151,3 +152,7 @@ Details: [tenting-stand-with-wrist-pads/readme.md](tenting-stand-with-wrist-pads
 A trackball sensor cover to be used in combination with the original bottom cover. Protects the sensor from outside elements.
 
 File is in [trackball-cover](trackball-cover).
+
+## Alternative sensors
+
+There are files in the `bottom_adapter_alternative_sensors` to accomodate PMW3389 and ADNS9800 sensors.
