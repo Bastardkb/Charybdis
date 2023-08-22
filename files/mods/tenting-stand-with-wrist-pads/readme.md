@@ -73,6 +73,6 @@ If you wanna play around with models, I've attached fusion files:
 
 ### Charybdis 3x5+3 Low
 
-![Charybdis 3x5+3_low_bare](assets/charybdis_3x5+3_low_adjustable_tent.png)
-![Charybdis 3x5+3_low_complete](assets/charybdis_3x5+3_low_front.png)
-![Charybdis 3x5+3_low_side](assets/charybdis_3x5+3_low_side.png)
+![Charybdis 3x5+3_low_bare](assets/charybdis_3x5+3_low_adjustable_tent.jpg)
+![Charybdis 3x5+3_low_complete](assets/charybdis_3x5+3_low_front.jpg)
+![Charybdis 3x5+3_low_side](assets/charybdis_3x5+3_low_side.jpg)

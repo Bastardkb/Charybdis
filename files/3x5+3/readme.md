@@ -71,10 +71,10 @@ The required cut in the plate to fit the trackball in the low version.
 
 If printing the low trackball Charybdis consider printing [3x5+3_low_clipped.stl](./LowTrackball/3x5+3_low_clipped.stl) as it removes the heat sink nut closest to the trackball mount so that it doesn't need to be clipped off aterwards. Additionally, [flat_plate.stl](./LowTrackball/flat_plate.stl) allows you to use the Charybdis without a tent.
 
-![charybdis_3x5+3_low_flat_front](./LowTrackball/assets/charybdis_3x5+3_low_flat_front.png)
+![charybdis_3x5+3_low_flat_front](./LowTrackball/assets/charybdis_3x5+3_low_flat_front.jpg)
 
-![charybdis_3x5+3_low_flat_close](./LowTrackball/assets/charybdis_3x5+3_low_flat_close.png)
+![charybdis_3x5+3_low_flat_close](./LowTrackball/assets/charybdis_3x5+3_low_flat_close.jpg)
 
 Finally, if you are doing a handwire build then [mcu_holder.stl](./LowTrackball/mcu_holder.stl) will hold a KB2040 (or similar MCU), the TRRS jack, and a 6mm reset button.
 
-![mcu_holder_bottom](./LowTrackball/assets/mcu_holder_bottom.png)
+![mcu_holder_bottom](./LowTrackball/assets/mcu_holder_bottom.jpg)
