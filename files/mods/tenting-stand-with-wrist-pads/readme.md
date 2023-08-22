@@ -2,11 +2,11 @@
 
 ## Required hardware
 
-| Part name | Amount (Amount with wrist supports) | Link |
-|---|---|---|
-| M4 nuts | 8 (12) | Anywhere |
-| M4 bolts 14+mm length | 8 (12) | Anywhere |
-| For wrist support generic mouse gel pads from ali or amazon | 2 | [Ali](https://www.aliexpress.com/item/1005003137481242.html) or [Amzn](https://a.co/d/4aokloi) |
+| Part name | Amount | Amount with wrist supports | Link |
+|---|---|---|---|
+| M4 nuts | 8 | 12 | Anywhere |
+| M4 bolts 14+mm length | 8  | 12 | Anywhere |
+| For wrist support generic mouse gel pads from ali or amazon | 2 | 2 | [Ali](https://www.aliexpress.com/item/1005003137481242.html) or [Amzn](https://a.co/d/4aokloi) |
 
 
 ## Base
