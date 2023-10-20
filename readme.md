@@ -54,7 +54,7 @@ This repository is always updated with the latest version of the 3d models, and 
 | Adapter - top                      | `3x5 nano/adapter_top.stl`            | The 3x6 Mini uses the same top adapter as the 3x5 Nano            |                      
 | Adapter - bottom                      | `adapter_bottom.stl`            |             |             
 | Tent - right                      | `3x6 mini/tent.stl`            | Optional 30 degree tent            |                  
-| Tent - left                      | `3x6/tent.stl`            | Optional 30 degree tent, mirror the file for left            |          
+| Tent - left                      | `3x6 mini/tent.stl`            | Optional 30 degree tent, mirror the file for left            |          
 
 **3d prints - 3x5**
 
