@@ -92,9 +92,9 @@ There are some mods to add BTUs or ball bearings, check the *mods* folder.
 
 # Build guide
 
-Find the build guide at https://docs.bastardkb.com/
+You can find detailed instruction on the online documentation linked below.
 
-# Finding help
+# Links
 
 - Discord: https://bastardkb.com/discord
 - Website: https://bastardkb.com/
