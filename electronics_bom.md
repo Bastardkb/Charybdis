@@ -28,7 +28,7 @@ If you want RGB, you will also need:
 | Part name          |  Amount (4x6) | Amount (3x6)  | Amount (3x5)  | Link       |
 | ------------------ | ------ | ----------| ---------- | ---------- |
 | SK6812 Mini-E LEDs | 58  | 42  | 35  | Aliexpress |
-| Capacitor, 1uF          | 4  |  4 |  4   | 1206                                  |
-| Resistor, 330Ohms       | 4   |  4 |  4  | 1206                                  |
+| Capacitor, 1uF, size 1206          | 4  |  4 |  4   |                                  |
+| Resistor, 330Ohms, size 1206       | 4   |  4 |  4  |                                  |
 | Wires                   |     |    | | 28 AWG recommended, Black, Red, Color |
 | Ribbon cables Flexstrip | 6    | 6  | 6 |    |             
