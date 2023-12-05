@@ -121,6 +121,7 @@ For each version, there are 3 files:
 - `DWG`: for laser cutting
 - `SLDPRT`: solidworks source file
 
+The files for the Charybdis and Scylla are different:
 - For the Charybdis, use the files in [4x6-palm-rest](4x6-palm-rest)
 - For the Scylla, use the files from the [palm rest folder](https://github.com/Bastardkb/Scylla/tree/main/files/palm-rest)
 
