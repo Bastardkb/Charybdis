@@ -116,6 +116,12 @@ Those palm rests are to be placed at the bottom of the keyboard, to support your
 - For the Charybdis, print the file in [4x6-palm-rest](4x6-palm-rest)
 - For the Scylla, print the file from the [palm rest folder](https://github.com/Bastardkb/Scylla/tree/main/files/palm-rest)
 
+### Straight mod
+![](../../pics/1aq.JPEG)
+
+### Slope mod
+![](../../pics/1ar.JPEG)
+
 ## Modular adjustable tenting stand for Charybdis/Scylla
 
 Details: [tenting-stand-with-wrist-pads/readme.md](tenting-stand-with-wrist-pads/readme.md)
