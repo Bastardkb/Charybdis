@@ -1,21 +1,31 @@
-# Mods:
+# Table of contents
 
-- [Mods:](#mods)
+- [Table of contents](#table-of-contents)
+- [Charybdis - generic](#charybdis---generic)
   - [BTU Mod](#btu-mod)
   - [Veichu Bearing Mod](#veichu-bearing-mod)
   - [Printable BTU Mod](#printable-btu-mod)
   - [Printable BTU Mod - with screws](#printable-btu-mod---with-screws)
     - [Upgraded inserts for the Printable BTU Mod](#upgraded-inserts-for-the-printable-btu-mod)
-  - [Midglow PCB for the Charybdis Nano tents](#midglow-pcb-for-the-charybdis-nano-tents)
   - [Trackpad mod for the Charybdis](#trackpad-mod-for-the-charybdis)
-  - [Trackpad mod for the Charybdis Nano organic tents](#trackpad-mod-for-the-charybdis-nano-organic-tents)
-  - [Chair Mount Plate](#chair-mount-plate)
-  - [Modular Thumb Cluster](#modular-thumb-cluster)
+  - [Alternative sensors](#alternative-sensors)
+- [Charybdis](#charybdis)
+  - [Palm Rest](#palm-rest)
+    - [Straight mod](#straight-mod)
+    - [Slope mod](#slope-mod)
   - [Modular adjustable tenting stand for Charybdis/Scylla](#modular-adjustable-tenting-stand-for-charybdisscylla)
     - [Base](#base)
     - [Variant with wrist wrest](#variant-with-wrist-wrest)
+- [Charybdis Nano](#charybdis-nano)
+  - [Midglow PCB for the Charybdis Nano tents](#midglow-pcb-for-the-charybdis-nano-tents)
+  - [Trackpad mod for the Charybdis Nano organic tents](#trackpad-mod-for-the-charybdis-nano-organic-tents)
+  - [Chair Mount Plate](#chair-mount-plate)
+  - [Modular Thumb Cluster](#modular-thumb-cluster)
   - [Trackball cover](#trackball-cover)
-  - [Alternative sensors](#alternative-sensors)
+
+# Charybdis - generic
+
+
 ## BTU Mod
 
 Very smooth, *very expensive*.
@@ -76,14 +86,6 @@ Print:
 
 Print and snap off supports. Sand the burrs if necessary.
 
-## Midglow PCB for the Charybdis Nano tents
-
-Check repo here: https://github.com/Bastardkb/Charybdis-nano-tent-glow
-
-![](../../pics/1ag.jpg)
-
-**Please note only the organic tent is compatible with the midglow rgb !**
-
 
 ## Trackpad mod for the Charybdis
 
@@ -100,6 +102,57 @@ Required hardware:
 | M4 screw insert, M4 X D6.0 X L5.0 | 1      | https://fr.aliexpress.com/item/4000232925592.html?spm=a2g0s.12269583.0.0.6aef4f282LZO4v |
 
 ![](../../pics/1ai.png)
+
+
+## Alternative sensors
+
+There are files in the [`bottom_adapter_alternative_sensors`](./bottom_adapter_alternative_sensors/README.md) directory to accomodate PMW3389 and ADNS9800 sensor PCBs.
+
+
+# Charybdis
+
+## Palm Rest 
+
+Those palm rests are to be placed at the bottom of the keyboard, to support your palms. There are both sloped and straight versions.
+
+For each version, there are 3 files:
+
+- `STL`: for 3D printing
+- `DWG`: for laser cutting
+- `SLDPRT`: solidworks source file
+
+The files for the Charybdis and Scylla are different:
+- For the Charybdis, use the files in [4x6-palm-rest](4x6-palm-rest)
+- For the Scylla, use the files from the [palm rest folder](https://github.com/Bastardkb/Scylla/tree/main/files/palm-rest)
+
+### Straight mod
+![](../../pics/1aq.JPEG)
+
+### Slope mod
+![](../../pics/1ar.JPEG)
+
+## Modular adjustable tenting stand for Charybdis/Scylla
+
+Details: [tenting-stand-with-wrist-pads/readme.md](tenting-stand-with-wrist-pads/readme.md)
+
+### Base
+
+![tenting stand](tenting-stand-with-wrist-pads/assets/stand.jpg)
+
+### Variant with wrist wrest
+
+![tending stand with wrist wrests](tenting-stand-with-wrist-pads/assets/home-with-pads.jpg)
+
+
+# Charybdis Nano
+
+## Midglow PCB for the Charybdis Nano tents
+
+Check repo here: https://github.com/Bastardkb/Charybdis-nano-tent-glow
+
+![](../../pics/1ag.jpg)
+
+**Please note only the organic tent is compatible with the midglow rgb !**
 
 
 ## Trackpad mod for the Charybdis Nano organic tents
@@ -135,24 +188,8 @@ Note: Below picture uses a standard Skeletyl main body that was cut to make room
 
 ![](../../pics/MTC.png)
 
-## Modular adjustable tenting stand for Charybdis/Scylla
-
-Details: [tenting-stand-with-wrist-pads/readme.md](tenting-stand-with-wrist-pads/readme.md)
-
-### Base
-
-![tenting stand](tenting-stand-with-wrist-pads/assets/stand.jpg)
-
-### Variant with wrist wrest
-
-![tending stand with wrist wrests](tenting-stand-with-wrist-pads/assets/home-with-pads.jpg)
-
 ## Trackball cover
 
 A trackball sensor cover to be used in combination with the original bottom cover. Protects the sensor from outside elements.
 
 File is in [trackball-cover](trackball-cover).
-
-## Alternative sensors
-
-There are files in the [`bottom_adapter_alternative_sensors`](./bottom_adapter_alternative_sensors/README.md) directory to accomodate PMW3389 and ADNS9800 sensor PCBs.
