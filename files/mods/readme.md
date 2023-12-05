@@ -11,6 +11,8 @@
   - [Alternative sensors](#alternative-sensors)
 - [Charybdis](#charybdis)
   - [Palm Rest](#palm-rest)
+    - [Straight mod](#straight-mod)
+    - [Slope mod](#slope-mod)
   - [Modular adjustable tenting stand for Charybdis/Scylla](#modular-adjustable-tenting-stand-for-charybdisscylla)
     - [Base](#base)
     - [Variant with wrist wrest](#variant-with-wrist-wrest)
@@ -113,8 +115,14 @@ There are files in the [`bottom_adapter_alternative_sensors`](./bottom_adapter_a
 
 Those palm rests are to be placed at the bottom of the keyboard, to support your palms. There are both sloped and straight versions.
 
-- For the Charybdis, print the file in [4x6-palm-rest](4x6-palm-rest)
-- For the Scylla, print the file from the [palm rest folder](https://github.com/Bastardkb/Scylla/tree/main/files/palm-rest)
+For each version, there are 3 files:
+
+- `STL`: for 3D printing
+- `DWG`: for laser cutting
+- `SLDPRT`: solidworks source file
+
+- For the Charybdis, use the files in [4x6-palm-rest](4x6-palm-rest)
+- For the Scylla, use the files from the [palm rest folder](https://github.com/Bastardkb/Scylla/tree/main/files/palm-rest)
 
 ### Straight mod
 ![](../../pics/1aq.JPEG)
