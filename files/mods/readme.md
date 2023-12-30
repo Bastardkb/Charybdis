@@ -188,8 +188,19 @@ Note: Below picture uses a standard Skeletyl main body that was cut to make room
 
 ![](../../pics/MTC.png)
 
-## Trackball cover
+## Trackball cover - Sensor_cover
+
 
 A trackball sensor cover to be used in combination with the original bottom cover. Protects the sensor from outside elements.
 
+![](./trackball-cover/pics/full-sensor-cover.png)
 File is in [trackball-cover](trackball-cover).
+
+## Trackball cover - Ball_cover
+
+Used in conjunction with [printable-btu-screws](printable-btu-screws) to prevent the ball from falling.
+The rotation may be difficult at first, but after you rotate it a few times it will feel good.
+Additionally, this has only been confirmed with STL resin, so please be careful when printing with other materials or methods.
+![](./trackball-cover/pics/ball-cover.jpg)
+
+If you are press-fitting with heat such as MJF, you will need to process it to the default inner diameter.
