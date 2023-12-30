@@ -194,6 +194,7 @@ Note: Below picture uses a standard Skeletyl main body that was cut to make room
 A trackball sensor cover to be used in combination with the original bottom cover. Protects the sensor from outside elements.
 
 ![](./trackball-cover/pics/full-sensor-cover.png)
+
 File is in [trackball-cover](trackball-cover).
 
 ## Trackball cover - Ball_cover
