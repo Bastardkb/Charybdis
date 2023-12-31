@@ -199,9 +199,9 @@ File is in [trackball-cover](trackball-cover).
 
 ## Trackball cover - Ball_cover
 
-Used in conjunction with [printable-btu-screws](printable-btu-screws) to prevent the ball from falling.
-The rotation may be difficult at first, but after you rotate it a few times it will feel good.
-Additionally, this has only been confirmed with STL resin, so please be careful when printing with other materials or methods.
-![](./trackball-cover/pics/ball-cover.jpg)
+Use in place of adapter_v2_top_v75.stl to prevent balls from falling.
+Adjusting the height for [printable-btu-screws](printable-btu-screws).
+Rotating the ball may be difficult at first, but you will get used to it by putting it on and taking it off a few times and rotating it.
+The screw holes of this part have an inner diameter (5mm) that allows you to glue M3 (x5x5) threaded inserts.
 
-If you are press-fitting with heat such as MJF, you will need to process it to the default inner diameter.
+![](./trackball-cover/pics/ball-cover.jpg)
