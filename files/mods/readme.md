@@ -21,7 +21,8 @@
   - [Trackpad mod for the Charybdis Nano organic tents](#trackpad-mod-for-the-charybdis-nano-organic-tents)
   - [Chair Mount Plate](#chair-mount-plate)
   - [Modular Thumb Cluster](#modular-thumb-cluster)
-  - [Trackball cover](#trackball-cover)
+  - [Trackball cover - Sensor\_cover](#trackball-cover---sensor_cover)
+  - [Trackball cover - Ball\_cover](#trackball-cover---ball_cover)
 
 # Charybdis - generic
 
@@ -188,8 +189,20 @@ Note: Below picture uses a standard Skeletyl main body that was cut to make room
 
 ![](../../pics/MTC.png)
 
-## Trackball cover
+## Trackball cover - Sensor_cover
+
 
 A trackball sensor cover to be used in combination with the original bottom cover. Protects the sensor from outside elements.
 
+![](./trackball-cover/pics/full-sensor-cover.png)
+
 File is in [trackball-cover](trackball-cover).
+
+## Trackball cover - Ball_cover
+
+Use in place of adapter_v2_top_v75.stl to prevent balls from falling.
+Adjusting the height for [printable-btu-screws](printable-btu-screws).
+Rotating the ball may be difficult at first, but you will get used to it by putting it on and taking it off a few times and rotating it.
+The screw holes of this part have an inner diameter (5mm) that allows you to glue M3 (x5x5) threaded inserts.
+
+![](./trackball-cover/pics/ball-cover.jpg)
