@@ -21,7 +21,8 @@
   - [Trackpad mod for the Charybdis Nano organic tents](#trackpad-mod-for-the-charybdis-nano-organic-tents)
   - [Chair Mount Plate](#chair-mount-plate)
   - [Modular Thumb Cluster](#modular-thumb-cluster)
-  - [Trackball cover](#trackball-cover)
+  - [Trackball cover - Sensor\_cover](#trackball-cover---sensor_cover)
+  - [Trackball cover - Ball\_cover](#trackball-cover---ball_cover)
 
 # Charybdis - generic
 
