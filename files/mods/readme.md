@@ -57,10 +57,10 @@ Pretty smooth, *less expensive*.
 You can use this option if you don't want to use bearings or buy the expensive BTU part. 
 There are files for 3.175mm (1/8"), and 2.5mm balls, you will need to print 3 of them as well as the bottom btu model. 
 
-Press the balls into the model then insert them into the bottom btu model.
+Press the balls into the model then insert them into the modified [bottom btu model](btu/adapter_btu_bottom_v32.stl).
 
 Links:
-- [Bottom BTU Model](printable-btu-screws/bottom.stl)
+- [Bottom BTU Model](btu/adapter_btu_bottom_v32.stl)
 - [Inserts](printable-btu) (choose either 3.175mm or 2.5mm)
 
 ## Printable BTU Mod - with screws
