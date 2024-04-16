@@ -4,9 +4,9 @@
 - [Charybdis - generic](#charybdis---generic)
   - [BTU Mod](#btu-mod)
   - [Veichu Bearing Mod](#veichu-bearing-mod)
-  - [Printable BTU Mod](#printable-btu-mod)
-  - [Printable BTU Mod - with screws](#printable-btu-mod---with-screws)
-    - [Upgraded inserts for the Printable BTU Mod](#upgraded-inserts-for-the-printable-btu-mod)
+  - [Static Bearing Mod](#static-bearing-mod)
+  - [Static Bearing Mod - with screws](#static-bearing-mod---with-screws)
+    - [Upgraded inserts for the Static Bearing Mod](#upgraded-inserts-for-the-static-bearing-mod)
   - [Trackpad mod for the Charybdis](#trackpad-mod-for-the-charybdis)
   - [Alternative sensors](#alternative-sensors)
 - [Charybdis](#charybdis)
@@ -48,7 +48,7 @@ They need to be press-fitted into the 3d print, as they have no screws.
 Print the file in the `veichu` folder.
 
 
-## Printable BTU Mod
+## Static Bearing Mod
 
 Pretty smooth, *less expensive*.
 
@@ -61,29 +61,29 @@ Press the balls into the model then insert them into the modified [bottom btu mo
 
 Links:
 - [Bottom BTU Model](btu/adapter_btu_bottom_v32.stl)
-- [Inserts](printable-btu) (choose either 3.175mm or 2.5mm)
+- [Inserts](static-bearing) (choose either 3.175mm or 2.5mm)
 
-## Printable BTU Mod - with screws
+## Static Bearing Mod - with screws
 
 Uses screws instead of pression fit to hold the ball inserts in the model. You will need M3 4mm screws.
 
 Two versions : with 3.175mm balls, and 4mm balls.
 
 Print:
-- [Bottom BTU Model](printable-btu-screws/bottom.stl)
-- [3.175mm insert](printable-btu-screws/balls-3.1mm/inserts.stl)
-- [4mm insert](printable-btu-screws/balls-4mm/inserts.stl)
+- [Bottom BTU Model](static-bearing-screws/bottom.stl)
+- [3.175mm insert](static-bearing-screws/balls-3.1mm/inserts.stl)
+- [4mm insert](static-bearing-screws/balls-4mm/inserts.stl)
 
 
-### Upgraded inserts for the Printable BTU Mod
+### Upgraded inserts for the Static Bearing Mod
 
 A bit taller of inserts, at 5mm tall, and a little more pronounced recess for the bearing ball.
 
 The snap of the bearing ball is a little less intense as a result and gives more surface angle for the ball to rest on, resulting in a more secure seat for the ball.
 
 Print:
-- [Bottom BTU Model](printable-btu-screws/bottom.stl)
-- [tall-inserts.stl](printable-btu-screws/balls-3.1mm/tall-inserts.stl)
+- [Bottom BTU Model](static-bearing-screws/bottom.stl)
+- [tall-inserts.stl](static-bearing-screws/balls-3.1mm/tall-inserts.stl)
 
 Print and snap off supports. Sand the burrs if necessary.
 
@@ -201,7 +201,7 @@ File is in [trackball-cover](trackball-cover).
 ## Trackball cover - Ball_cover
 
 Use in place of adapter_v2_top_v75.stl to prevent balls from falling.
-Adjusting the height for [printable-btu-screws](printable-btu-screws).
+Adjusting the height for [static-beraing-screws](static-bearing-screws).
 Rotating the ball may be difficult at first, but you will get used to it by putting it on and taking it off a few times and rotating it.
 The screw holes of this part have an inner diameter (5mm) that allows you to glue M3 (x5x5) threaded inserts.
 
