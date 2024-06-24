@@ -45,7 +45,10 @@ The veichu bearings are a cheaper alternative to the BTUs.
 
 They need to be press-fitted into the 3d print, as they have no screws.
 
-Print the file in the `veichu` folder.
+There are 2 different versions in the `veichu` folder:
+
+- `veichu.stl`: uses M3 screw inserts
+- `veichu_M3_screw.stl`: has M3 threads directly into the plastic, no inserts needed
 
 
 ## Static Bearing Mod
