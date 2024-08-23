@@ -52,8 +52,10 @@ This repository is always updated with the latest version of the 3d models, and 
 | Left plate       |                            | Download from the [TBK Mini repository](https://github.com/bastardkb/tbk-Mini), mirror the file for left |
 | Adapter - top    | `3x5 nano/adapter_top.stl` | The 3x6 Mini uses the same top adapter as the 3x5 Nano                                                   |
 | Adapter - bottom | `adapter_bottom.stl`       |                                                                                                          |
-| Tent - right     | `3x6 mini/tent.stl`        | Optional 30 degree tent                                                                                  |
-| Tent - left      | `3x6 mini/tent.stl`        | Optional 30 degree tent, mirror the file for left                                                        |
+| Tent - right     | `3x6 mini/tent.stl`        | Optional tent*                                                                            |
+| Tent - left      | `3x6 mini/tent.stl`        | Optional tent, mirror the file for left*                                                        |
+
+*If you are printing tents for the Charybdis Mini, there are both 30 and 5 degree versions available.
 
 **3d prints - 3x5**
 
