@@ -44,12 +44,14 @@ Print the file in the `btu` folder.
 
 The veichu bearings are a cheaper alternative to the BTUs. 
 
+This uses the 7.5mm Veichu VCN310 variant.
+
 They need to be press-fitted into the 3d print, as they have no screws.
 
 There are 2 different versions in the `veichu` folder:
 
-- `veichu.stl`: uses M3 screw inserts
-- `veichu_M3_screw.stl`: has M3 threads directly into the plastic, no inserts needed
+- [Bottom Veichu Model](veichu/veichu.stl) : uses M3 screw inserts
+- [Bottom M3 Veichu Model](veichu/veichu_M3_screw.stl) : has M3 threads directly into the plastic, no inserts needed
 
 ## Static Bearing Mod - Veichu drop-in replacement
 
@@ -60,7 +62,7 @@ It was tested to work with MJF printing from JLCPCB. Different printing techniqu
 It was designed for 3mm ceramic balls. They press fit into the holders, can take quite a bit of force to press in. Recommend to press against a hard object like your desk.
 
 Links:
-- [Bottom Veichu Model](veichu/veichu.stl) OR [Bottom M3 Veichu Model](veichu/veichu_M3_screw.stl)
+- Use either version of the Veichu mod bottom models: [Bottom Veichu Model](veichu/veichu.stl) OR [Bottom M3 Veichu Model](veichu/veichu_M3_screw.stl)
 - [Inserts](Static-bearing-Veichu-drop-in/Static-bearing-holder_v221117.stl)
 
 
