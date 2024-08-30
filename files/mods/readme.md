@@ -57,13 +57,13 @@ There are 2 different versions in the `veichu` folder:
 
 A static bearing mod, that is a drop-in replacement for the 7.5mm Veichu VCN310 BTU. 
 
-It was tested to work with MJF printing from JLCPCB. Different printing techniques have different tolerances, so you results may vary when printing with different techniques.
+The isnerts were tested to work with MJF printing from JLCPCB. Different printing techniques have different tolerances, so you results may vary when printing with different techniques.
 
 It was designed for 3mm ceramic balls. They press fit into the holders, can take quite a bit of force to press in. Recommend to press against a hard object like your desk.
 
 Links:
-- Use either version of the Veichu mod bottom models: [Bottom Veichu Model](veichu/veichu.stl) OR [Bottom M3 Veichu Model](veichu/veichu_M3_screw.stl)
-- [Inserts](Static-bearing-Veichu-drop-in/Static-bearing-holder_v221117.stl)
+- Use either version of the bottom models from the Veichu folder: [Bottom Veichu Model](veichu/veichu.stl) OR [Bottom M3 Veichu Model](veichu/veichu_M3_screw.stl)
+- Use the [Inserts](Static-bearing-Veichu-drop-in/Static-bearing-holder_v221117.stl) from the static-bearing-veichu-drop-in folder.
 
 
 ## Static Bearing Mod
