@@ -55,6 +55,8 @@ There are 2 different versions in the `veichu` folder:
 
 ## Static Bearing Mod - Veichu drop-in replacement
 
+![](Static-bearing-Veichu-drop-in/Real veichu vs static veichu.jpg)
+
 A static bearing mod, that is a drop-in replacement for the 7.5mm Veichu VCN310 BTU. 
 
 The isnerts were tested to work with MJF printing from JLCPCB. Different printing techniques have different tolerances, so you results may vary when printing with different techniques.
