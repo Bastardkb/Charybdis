@@ -4,6 +4,7 @@
 - [Charybdis - generic](#charybdis---generic)
   - [BTU Mod](#btu-mod)
   - [Veichu Bearing Mod](#veichu-bearing-mod)
+  - [Static Bearing Mod - Veichu drop-in replacement](#static-bearing-mod---veichu-drop-in-replacement)
   - [Static Bearing Mod](#static-bearing-mod)
   - [Static Bearing Mod - with screws](#static-bearing-mod---with-screws)
     - [Upgraded inserts for the Static Bearing Mod](#upgraded-inserts-for-the-static-bearing-mod)
