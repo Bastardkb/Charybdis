@@ -55,7 +55,7 @@ There are 2 different versions in the `veichu` folder:
 
 A static bearing mod, that is a drop-in replacement for the 7.5mm Veichu VCN310 BTU. 
 
-It was tested to work with MJF printing from JLCPCB. Different printing techniques have different tolerances, so you results my vary when printing with different techniques.
+It was tested to work with MJF printing from JLCPCB. Different printing techniques have different tolerances, so you results may vary when printing with different techniques.
 
 It was designed for 3mm ceramic balls. They press fit into the holders, can take quite a bit of force to press in. Recommend to press against a hard object like your desk.
 
