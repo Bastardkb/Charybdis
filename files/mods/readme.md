@@ -4,6 +4,7 @@
 - [Charybdis - generic](#charybdis---generic)
   - [BTU Mod](#btu-mod)
   - [Veichu Bearing Mod](#veichu-bearing-mod)
+  - [Static Bearing Mod - Veichu drop-in replacement](#static-bearing-mod---veichu-drop-in-replacement)
   - [Static Bearing Mod](#static-bearing-mod)
   - [Static Bearing Mod - with screws](#static-bearing-mod---with-screws)
     - [Upgraded inserts for the Static Bearing Mod](#upgraded-inserts-for-the-static-bearing-mod)
@@ -43,12 +44,28 @@ Print the file in the `btu` folder.
 
 The veichu bearings are a cheaper alternative to the BTUs. 
 
+This uses the 7.5mm Veichu VCN310 variant.
+
 They need to be press-fitted into the 3d print, as they have no screws.
 
 There are 2 different versions in the `veichu` folder:
 
-- `veichu.stl`: uses M3 screw inserts
-- `veichu_M3_screw.stl`: has M3 threads directly into the plastic, no inserts needed
+- [Bottom Veichu Model](veichu/veichu.stl) : uses M3 screw inserts
+- [Bottom M3 Veichu Model](veichu/veichu_M3_screw.stl) : has M3 threads directly into the plastic, no inserts needed
+
+## Static Bearing Mod - Veichu drop-in replacement
+
+![](../../pics/1as.jpg)
+
+A static bearing mod, that is a drop-in replacement for the 7.5mm Veichu VCN310 BTU. 
+
+The inserts were tested to work with MJF printing from JLCPCB. Different printing techniques have different tolerances, so you results may vary when printing with different techniques.
+
+It was designed for 3mm ceramic balls. They press fit into the holders, can take quite a bit of force to press in. Recommend to press against a hard object like your desk.
+
+Links:
+- Use either version of the bottom models from the Veichu folder: [Bottom Veichu Model](veichu/veichu.stl) OR [Bottom M3 Veichu Model](veichu/veichu_M3_screw.stl)
+- Use the [Inserts](Static-bearing-Veichu-drop-in/Static-bearing-holder_v221117.stl) from the static-bearing-veichu-drop-in folder.
 
 
 ## Static Bearing Mod
@@ -65,6 +82,7 @@ Press the balls into the model then insert them into the modified [bottom btu mo
 Links:
 - [Bottom BTU Model](btu/adapter_btu_bottom_v32.stl)
 - [Inserts](static-bearing) (choose either 3.175mm or 2.5mm)
+
 
 ## Static Bearing Mod - with screws
 
