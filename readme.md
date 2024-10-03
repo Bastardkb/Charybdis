@@ -87,7 +87,7 @@ If you are sourcing the electronic components yourself, you can find a BOM in th
 
 ## Mods
 
-There are some mods to add BTUs or ball bearings, check the *mods* folder.
+There are some mods to add BTUs or ball bearings, check the [mods](files/mods/) folder.
 
 
 ![](pics/1ac.png)
