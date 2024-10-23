@@ -1,5 +1,8 @@
 # Charybdis
 
+![](pics/1at.jpg)
+
+![](pics/1ae.jpg)
 
 An ergonomic keyboard with integrated trackball.
 
@@ -9,13 +12,8 @@ There are 4x6, 3x6 "Mini" and 3x5 "Nano" versions.
 
 Made to be used with the [Scylla](https://github.com/Bastardkb/Scylla), [TKB Mini](https://github.com/Bastardkb/TBK-Mini) or [Skeletyl](https://github.com/Bastardkb/Skeletyl) on the other half.
 
-![](pics/1ae.jpg)
-
-![](pics/1af.jpg)
-
 
 # Required components
-
 
 ## 3d prints - cases
 
@@ -30,17 +28,23 @@ This repository is always updated with the latest version of the 3d models, and 
 
 **3d prints - 4x6**
 
+There are two versions available for the Charybdis 4x6: `MK1`, and `MK2`. You can find the required files in their respective folder.
+
+In the below table are listed the required files to construct the `MK2`, as that's the one most up to date.
+The files that are compatible with both `MK1` and `MK2` are in the `4x6` folder.
+
 | Description      | File                    | Notes                                                                                           |
 | ---------------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
-| Right case       | `4x6/charybdis.stl`     |                                                                                                 |
+| Right case       | `4x6/MK2/charybdis.stl`     |                                                                                             |
 | Left case        |                         | Download from the [Scylla repository](https://github.com/Bastardkb/Scylla)                      |
-| Right plate      | `4x6/plate_shield2.stl` |                                                                                                 |
+| Right plate      | `4x6//MK2/plate_shield2.stl` |                                                                                            |
 | Left plate       |                         | Download from the [Scylla repository](https://github.com/Bastardkb/Scylla)                      |
 | Adapter - top    | `4x6/adapter_top.stl`   | There is a different adapter for the 4x6 and 3x5, make sure to grab the one in the 4x6 folder ! |
 | Adapter - bottom | `adapter_bottom.stl`    |                                                                                                 |
-| Tent - right     | `4x6/tent_alien.stl`    | Optional 30 degree tent                                                                         |
-| Tent - left      | `4x6/tent_alien.stl`    | Optional 30 degree tent, mirror the file for left                                               |
+| Tent - right     | `4x6/tent_alien.stl`    | Optional 30 degree tent*                                                                        |
+| Tent - left      | `4x6/tent_alien.stl`    | Optional 30 degree tent, mirror the file for left*                                              |
 
+*The 30 degree tents are compatible with both Charybdis MK1 and MK2.
 
 **3d prints - 3x6**
 
