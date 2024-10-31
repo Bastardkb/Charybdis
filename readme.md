@@ -106,12 +106,6 @@ You can find detailed instruction on the online documentation linked below.
 - Website: https://bastardkb.com/
 - Docs: https://docs.bastardkb.com
 
-# Support me on Patreon
-
-If you like the keyboard, please consider helping me with Patreon: https://www.patreon.com/bastardkb
-
-I post regular updates and hindsight on my work. I work full time on keyboard innovation, and this helps a lot !
-
 # License 
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
