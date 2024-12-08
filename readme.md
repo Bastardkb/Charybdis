@@ -20,7 +20,7 @@ Made to be used with the [Scylla](https://github.com/Bastardkb/Scylla), [TKB Min
 The STL files are included in this Github repository, in the `files` folder.
 
 Please find detailed instructions on how to print the case on the online instructions linked below.
-
+https://docs.bastardkb.com/help/dactyl_print.html
 
 Depending on which keyboard you are building, you will need different prints. There is a list in the table below - depending on the version number, the names will slightly vary. 
 
