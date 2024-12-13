@@ -51,14 +51,14 @@ The files that are compatible with both `MK1` and `MK2` are in the `4x6` folder.
 
 | Description      | File                       | Notes                                                                                                    |
 | ---------------- | -------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Right case       | `3x6 mini/Cmini.stl`       |                                                                                                          |
+| Right case       | `CMini_v1_v11.3mf`       |                                                                                                          |
 | Left case        |                            | Download from the [TBK Mini repository](https://github.com/bastardkb/tbk-Mini), mirror the file for left |
-| Right plate      | `3x6 mini/plate.stl`       |                                                                                                          |
+| Right plate      | `3x6 mini/plate_v1_v11.stl`       |                                                                                                          |
 | Left plate       |                            | Download from the [TBK Mini repository](https://github.com/bastardkb/tbk-Mini), mirror the file for left |
 | Adapter - top    | `3x5 nano/adapter_top.stl` | The 3x6 Mini uses the same top adapter as the 3x5 Nano                                                   |
-| Adapter - bottom | `adapter_bottom.stl`       |                                                                                                          |
-| Tent - right     | `3x6 mini/tent.stl`        | Optional tent*                                                                            |
-| Tent - left      | `3x6 mini/tent.stl`        | Optional tent, mirror the file for left*                                                        |
+| Adapter - bottom | `adapter_v4_bottom_v17.stl`       |                                                                                                          |
+| Tent - right     | `3x6 mini/tent_v2_v57.3mf`        | Optional tent*                                                                            |
+| Tent - left      | `3x6 mini/tent_v2_v57.3mf`        | Optional tent, mirror the file for left*                                                        |
 
 *If you are printing tents for the Charybdis Mini, there are both 30 and 5 degree versions available.
 
