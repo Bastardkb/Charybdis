@@ -25,7 +25,9 @@ https://docs.bastardkb.com/help/dactyl_print.html
 
 Depending on which keyboard you are building, you will need different prints. There is a list in the table below - depending on the version number, the names will slightly vary. 
 
-This repository is always updated with the latest version of the 3d models, and they are compatible with previous versions. For example, `charybdis.stl` might reference `charybdis3_v131.stl`.
+This repository is always updated with the latest version of the 3d models, and they are compatible with previous versions. For example, `charybdis.stl` might reference `charybdis3_v131.stl`. 
+
+The 3d files might have the `stl` or `3mf` extension, depending on time of release. The extension type does not matter when slicing and printing.
 
 **3d prints - 4x6**
 
