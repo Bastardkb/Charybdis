@@ -162,7 +162,7 @@ Wrist rests designed for larger cloth rubber mats like this one here: <https://a
 
 ### Files
 - [Scylla 4x6 MKII Palm Rest](./4x6-palm-rest-mkII/scylla_v3_36_with_pads.stl)
-- [Charybdis 4x6 MKII Palm Rest](.44x6-palm-rest-mkII/charybdis_v3_36_with_pads.stl)
+- [Charybdis 4x6 MKII Palm Rest](./4x6-palm-rest-mkII/charybdis_v3_36_with_pads.stl)
 - [Step file with both](./4x6-palm-rest-mkII/charybdis-bottom-plates-palm-rests-MK2.step)
 
 ## Modular adjustable tenting stand for Charybdis/Scylla
