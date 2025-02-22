@@ -14,6 +14,7 @@
   - [Palm Rest](#palm-rest)
     - [Straight mod](#straight-mod)
     - [Slope mod](#slope-mod)
+  - [Palm Rest for Charybdis 4x6 MKII](#palm-rest-for-charybdis-4x6-mkii)
   - [Modular adjustable tenting stand for Charybdis/Scylla](#modular-adjustable-tenting-stand-for-charybdisscylla)
     - [Base](#base)
     - [Variant with wrist wrest](#variant-with-wrist-wrest)
@@ -42,7 +43,7 @@ Print the file in the `btu` folder.
 
 ## Veichu Bearing Mod
 
-The veichu bearings are a cheaper alternative to the BTUs. 
+The veichu bearings are a cheaper alternative to the BTUs.
 
 This uses the 7.5mm Veichu VCN310 variant.
 
@@ -57,7 +58,7 @@ There are 2 different versions in the `veichu` folder:
 
 ![](../../pics/1as.jpg)
 
-A static bearing mod, that is a drop-in replacement for the 7.5mm Veichu VCN310 BTU. 
+A static bearing mod, that is a drop-in replacement for the 7.5mm Veichu VCN310 BTU.
 
 The inserts were tested to work with MJF printing from JLCPCB. Different printing techniques have different tolerances, so you results may vary when printing with different techniques.
 
@@ -74,8 +75,8 @@ Pretty smooth, *less expensive*.
 
 ![](../../pics/1ad.jpeg)
 
-You can use this option if you don't want to use bearings or buy the expensive BTU part. 
-There are files for 3.175mm (1/8"), and 2.5mm balls, you will need to print 3 of them as well as the bottom btu model. 
+You can use this option if you don't want to use bearings or buy the expensive BTU part.
+There are files for 3.175mm (1/8"), and 2.5mm balls, you will need to print 3 of them as well as the bottom btu model.
 
 Press the balls into the model then insert them into the modified [bottom btu model](btu/adapter_btu_bottom_v32.stl).
 
@@ -133,7 +134,7 @@ There are files in the [`bottom_adapter_alternative_sensors`](./bottom_adapter_a
 
 # Charybdis
 
-## Palm Rest 
+## Palm Rest
 
 Those palm rests are to be placed at the bottom of the keyboard, to support your palms. There are both sloped and straight versions.
 
@@ -152,6 +153,16 @@ The files for the Charybdis and Scylla are different:
 
 ### Slope mod
 ![](../../pics/1ar.JPEG)
+
+## Palm Rest for Charybdis 4x6 MKII
+
+Wrist rests designed for larger cloth rubber mats like this one here: <https://aliexpress.com/item/1005004557222656.html>
+
+![](4x6-palm-rest-mkII/pic.jpg)
+
+### Files
+- [Scylla 4x6 MKII Palm Rest](./4x6-palm-rest-mkII/scylla_v3_36_with_pads.stl)
+- [Charybdis 4x6 MKII Palm Rest](.44x6-palm-rest-mkII/charybdis_v3_36_with_pads.stl)
 
 ## Modular adjustable tenting stand for Charybdis/Scylla
 
@@ -193,7 +204,7 @@ Required hardware:
 
 ## Chair Mount Plate
 Alternate bottom plate for mounting to a chair or desk using standard camera mounting equipment. Fits 1/4 inch mounting bolt (1/4-20 UNC).
-Found in the `3x5 nano/chairMountPlate` folder.  
+Found in the `3x5 nano/chairMountPlate` folder.
 
 ![](../../pics/1aj.png)
 
