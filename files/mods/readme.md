@@ -15,6 +15,7 @@
     - [Straight mod](#straight-mod)
     - [Slope mod](#slope-mod)
   - [Palm Rest for Charybdis 4x6 MKII](#palm-rest-for-charybdis-4x6-mkii)
+    - [Files](#files)
   - [Modular adjustable tenting stand for Charybdis/Scylla](#modular-adjustable-tenting-stand-for-charybdisscylla)
     - [Base](#base)
     - [Variant with wrist wrest](#variant-with-wrist-wrest)
@@ -23,8 +24,8 @@
   - [Trackpad mod for the Charybdis Nano organic tents](#trackpad-mod-for-the-charybdis-nano-organic-tents)
   - [Chair Mount Plate](#chair-mount-plate)
   - [Modular Thumb Cluster](#modular-thumb-cluster)
-  - [Trackball cover - Sensor\_cover](#trackball-cover---sensor_cover)
-  - [Trackball cover - Ball\_cover](#trackball-cover---ball_cover)
+  - [Sensor cover](#sensor-cover)
+  - [Trackball retainer](#trackball-retainer)
 
 # Charybdis - generic
 
@@ -222,20 +223,22 @@ Note: Below picture uses a standard Skeletyl main body that was cut to make room
 
 ![](../../pics/MTC.png)
 
-## Trackball cover - Sensor_cover
-
+## Sensor cover
 
 A trackball sensor cover to be used in combination with the original bottom cover. Protects the sensor from outside elements.
 
-![](./trackball-cover/pics/full-sensor-cover.png)
+![](./sensor-cover/pics/full-sensor-cover.png)
 
 File is in [trackball-cover](trackball-cover).
 
-## Trackball cover - Ball_cover
+## Trackball retainer
 
 Use in place of adapter_v2_top_v75.stl to prevent balls from falling.
 Adjusting the height for [static-beraing-screws](static-bearing-screws).
+
 Rotating the ball may be difficult at first, but you will get used to it by putting it on and taking it off a few times and rotating it.
 The screw holes of this part have an inner diameter (5mm) that allows you to glue M3 (x5x5) threaded inserts.
 
-![](./trackball-cover/pics/ball-cover.jpg)
+There are both 3x5 and 4x6 versions.
+
+![](./trackball-retainer/pics/ball-cover.jpg)
