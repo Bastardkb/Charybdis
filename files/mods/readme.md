@@ -15,7 +15,6 @@
     - [Straight mod](#straight-mod)
     - [Slope mod](#slope-mod)
   - [Palm Rest for Charybdis 4x6 MKII](#palm-rest-for-charybdis-4x6-mkii)
-    - [Files](#files)
   - [Modular adjustable tenting stand for Charybdis/Scylla](#modular-adjustable-tenting-stand-for-charybdisscylla)
     - [Base](#base)
     - [Variant with wrist wrest](#variant-with-wrist-wrest)
@@ -160,11 +159,6 @@ The files for the Charybdis and Scylla are different:
 Wrist rests designed for larger cloth rubber mats like this one here: <https://aliexpress.com/item/1005004557222656.html>
 
 ![](4x6-palm-rest-mkII/pic.jpg)
-
-### Files
-- [Scylla 4x6 MKII Palm Rest](./4x6-palm-rest-mkII/scylla_v3_36_with_pads.stl)
-- [Charybdis 4x6 MKII Palm Rest](./4x6-palm-rest-mkII/charybdis_v3_36_with_pads.stl)
-- [Step file with both](./4x6-palm-rest-mkII/charybdis-bottom-plates-palm-rests-MK2.step)
 
 ## Modular adjustable tenting stand for Charybdis/Scylla
 
