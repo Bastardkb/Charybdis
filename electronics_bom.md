@@ -7,7 +7,6 @@
 | Cables                            |              |              |               | 28 AWG recommended                                                                         |
 | PJ320A Audio jack                 | 2            | 2            | 2             |                                                                                            |
 | Button, 4x4x1.5                   | 2            | 2            | 2             | https://www.aliexpress.com/item/1005001304569553.html?spm=a2g0s.9042311.0.0.27424c4dDwgcp7 |
-| Sensor PCB                        | 1            | 1            | 1             | see details below                                                                          |
 | Bearing, MR63-3x6x2.5mm           | 3            | 3            | 3             |                                                                                            |
 | Flexible PCB for the plate (4x6)  | 2            | 0            | 0             | https://github.com/Bastardkb/Scylla-PCB-Plate                                              |
 | Flexible PCB for the plate (3x6)  | 0            | 2            | 0             | https://github.com/Bastardkb/TBK-Mini-PCB-plate                                            |
