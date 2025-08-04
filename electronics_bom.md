@@ -23,9 +23,6 @@
 
 *Alternatively, you can use the [Elite-C holder](https://github.com/Bastardkb/Elite-C-holder) with the [splinky](https://github.com/bastardkb/splinky) or any other [compatible board](https://docs.bastardkb.com/hw/rp2040-community.html). 
 
-| Splinky                           | 2            | 2            | 2             | https://github.com/bastardkb/splinky                                                                                            |
-| Splinky adapter for the Charybdis | 2            | 2            | 2             | https://github.com/Bastardkb/Elite-C-holder                                         |
-
 If you want RGB, you will also need:
 
 | Part name          |  Amount (4x6) | Amount (3x6)  | Amount (3x5)  | Link       |
