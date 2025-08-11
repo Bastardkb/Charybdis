@@ -28,12 +28,12 @@ Charybdis is an ergonomic, open source keyboard designed and developed by <a hre
 #### Regarding Snap Fits
 The conventional build for the Charybdis line of keyboards is to solder the switches to the PCB. This helps to hold the PCB firmly in place. To make the Charybdis hot swappable, some force is required to keep the PCB pushed against the keyboard case. Using copious amounts of hot glue and/or tape is one option to achieve this. Another way is to handwire each switch. These solutions seemed cumbersome to me.
 
-My first contribution towards this project is the addition of snap fits to secure the PCB provided by <a href="https://bastardkb.com/" target="_blank" style="color: #02c2db; text-decoration: underline;text-decoration-style: dotted;"> Bastard Keyboards</a>. <a href="../snapfit_pcb_case/" target="_blank" style="color: #02c2db; text-decoration: underline;text-decoration-style: dotted;"> Snap Fit Cases for Charybdis Mini and Charybdis Nano</a> contains files for the right and left cases for the "Mini" and "Nano" versions of Charybdis.
+My first contribution towards this project is the addition of snap fits to secure the PCB provided by <a href="https://bastardkb.com/" target="_blank" style="color: #02c2db; text-decoration: underline;text-decoration-style: dotted;"> Bastard Keyboards</a>.
 
 #### Regarding Batteries for Wireless Builds
 The conventional wireless build for the Charybdis line of keyboards uses Li-Ion batteries, like the 401030 130mAh battery. The internal housing, which is specifically designed to be a wired keyboard, limits the battery size. Lower battery sizes offer less battery capacity, thereby reducing the battery life on the keyboard (<a href="https://zmk.dev/power-profiler" target="_blank" style="color: #02c2db; text-decoration: underline;text-decoration-style: dotted;"> ZMK battery life can be computed here</a>).
 
-My second contribution towards this project is the addition of AA battery (14500 3.7v Li-Ion battery) holders to the Charybdis. This will increase the battery capacity usable for Charybdis to 2500-3800mAh from current values of 130-300mAh. This repository contains files for the right and left cases for the "Mini" and "Nano" versions of Charybdis. This builds on top of <a href="../snapfit_pcb_case/" target="_blank" style="color: #02c2db; text-decoration: underline;text-decoration-style: dotted;"> Snap Fit Cases for Charybdis Mini and Charybdis Nano</a>.
+My second contribution towards this project is the addition of AA battery (14500 3.7v Li-Ion battery) holders to the Charybdis. This will increase the battery capacity usable for Charybdis to 2500-3800mAh from current values of 130-300mAh. This repository contains files for the right and left cases for the "Mini" and "Nano" versions of Charybdis.
 
 # 3D Model Files
 

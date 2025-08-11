@@ -27,7 +27,7 @@ My contribution towards this project is the addition of snap fits to secure the 
 <img src="images/charybdisnano_v2_v187_snap_fit.jpeg" width="1500">
 
 ## BUILD IMAGES
-This project is used to build the project [Charybdis Mini and Charybdis Nano with AA battery](../aa_3.7v_battery_holder/). Attached are images of the front and rear view of the Charybdis Mini case with snapfits and millmax-hotswappable PCBs.
+This project is used to build the project "Charybdis Mini and Charybdis Nano with AA battery". Attached are images of the front and rear view of the Charybdis Mini case with snapfits and millmax-hotswappable PCBs.
 
 ### CHARYBDIS MINI SNAP FIT CASE BOTTOM VIEW (LEFT)
 <img src="images/case_bottom.jpg" width="1500">
