@@ -37,10 +37,6 @@ My second contribution towards this project is the addition of AA battery (14500
 
 # 3D Model Files
 
-This project and <a href="../snapfit_pcb_case/" target="_blank" style="color: #02c2db; text-decoration: underline;text-decoration-style: dotted;"> Snap Fit Cases for Charybdis Mini and Charybdis Nano</a> contain 3d model files for the respective projects.
-
-<a href="https://makerworld.com/en/models/1689412-snap-fit-cases-for-charybdis-mini-and-nano#profileId-1790650" target="_blank" style="color: #02c2db; text-decoration: underline;text-decoration-style: dotted;"> Link To MakerWorld for Only Snap Fits (Without Battery Holder Update)</a>.
-
 <a href="https://makerworld.com/en/models/1689212-charybdis-mini-and-nano-with-aa-battery#profileId-1790424" target="_blank" style="color: #02c2db; text-decoration: underline;text-decoration-style: dotted;"> Link To MakerWorld for AA Battery and Snap Fit Update</a>.
 
 # Build Guide
