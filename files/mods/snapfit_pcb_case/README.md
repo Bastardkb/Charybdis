@@ -14,6 +14,11 @@ The conventional build for the Charybdis line of keyboards is to solder the swit
 
 My contribution towards this project is the addition of snap fits to secure the PCB provided by [Bastard Keyboards](https://bastardkb.com/). This repository contains files for the right and left cases for the "Mini" and "Nano" versions of Charybdis.
 
+# 3D Model Files
+
+<a href="https://makerworld.com/en/models/1689412-snap-fit-cases-for-charybdis-mini-and-nano#profileId-1790650" target="_blank" style="color: #02c2db; text-decoration: underline;text-decoration-style: dotted;"> Link To MakerWorld for Only Snap Fits (Without Battery Holder Update)</a>.
+
+
 ## RENDERS
 ### CHARYBDIS MINI SNAP FIT CASE RENDER (RIGHT)
 <img src="images/CMini_v1_v11_snap_fit.jpeg" width="1500">
@@ -22,7 +27,7 @@ My contribution towards this project is the addition of snap fits to secure the 
 <img src="images/charybdisnano_v2_v187_snap_fit.jpeg" width="1500">
 
 ## BUILD IMAGES
-This project is used to build the project [Charybdis Mini and Charybdis Nano with AA battery](https://github.com/rohithjayarajan/charybdis_mini_nano_AA_battery). Attached are images of the front and rear view of the Charybdis Mini case with snapfits and millmax-hotswappable PCBs.
+This project is used to build the project [Charybdis Mini and Charybdis Nano with AA battery](../aa_3.7v_battery_holder/). Attached are images of the front and rear view of the Charybdis Mini case with snapfits and millmax-hotswappable PCBs.
 
 ### CHARYBDIS MINI SNAP FIT CASE BOTTOM VIEW (LEFT)
 <img src="images/case_bottom.jpg" width="1500">
