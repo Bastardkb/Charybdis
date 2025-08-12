@@ -185,7 +185,7 @@ Use snap fits to secure the PCB provided by [Bastard Keyboards](https://bastardk
 
 ## AA Battery Holder
 
-Adds AA battery (14500 3.7v Li-Ion battery) holders to the Charybdis. This will increase the battery capacity usable for Charybdis to 2500-3800mAh. [AA Battery Holder](./aa_3.7v_battery_holder/) contains files for the right and left cases for the "Mini" and "Nano" versions of Charybdis.
+Add AA battery (14500 3.7v Li-Ion battery) holders to the Charybdis. Increases the battery capacity usable for Charybdis to 2500-3800mAh. [AA Battery Holder](./aa_3.7v_battery_holder/) contains files for the right and left cases for the "Mini" and "Nano" versions of Charybdis.
 
 ![](./aa_3.7v_battery_holder/images/cmini_top_closed_battery.jpg)
 
