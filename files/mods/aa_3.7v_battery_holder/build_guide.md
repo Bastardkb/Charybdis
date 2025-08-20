@@ -18,17 +18,17 @@ Follow the wireless build guide detailed in [the 280Zo charybdis wireless mini b
 
 | Part                                                                                                                                                                                           | Quantity |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| 14500 3.7v AA Battery (dimensions 14mm*50mm)                                                                                                                                                   | 2        |
+| 14500 3.7v AA Battery (14mm*50mm)                                                                                                                                                   | 2        |
 | [https://www.aliexpress.com/item/2251832697974737.html?spm=a2g0o.order_list.order_list_main.104.45091802w1A1m8](AA Battery Contact Plates (max dimensions 10mm*10mm))                          | 2 pairs  |
 | [https://www.aliexpress.us/item/3256808105874261.html?spm=a2g0o.order_list.order_list_main.11.45091802w1A1m8&gatewayAdapt=glo2usa](Vertical Right Angle Toggle Switch (7mm MTS-102C3 variant)) | 1        |
-| Cylindrical Magnets (dimensions 4mm*2mm)                                                                                                                                                       | 1        |
+| Cylindrical Magnets (4mm*2mm)                                                                                                                                                       | 1        |
 
 # Battery Connections
 
 1. Solder the wires to the AA battery contact plates
 1. Insert the wires soldered to the battery contact plates through the holes in the battery holder
 1. Note that the negative terminal wire (the one attached to the spring plate) will go inside the hole in the battery holder that is closest to the thumb cluster. You will be able to visually notice that this side has more depth so as to house the spring
-1. Once inserted through these holes, solder the battery terminal wires to the appropriate battery power pins.
+1. Once inserted through these holes, solder the battery terminal wires to the appropriate battery power pins
 
 | ![](images/battery_connectors.jpg) |
 | :--------------------------------: |
@@ -38,23 +38,19 @@ Follow the wireless build guide detailed in [the 280Zo charybdis wireless mini b
 | :-----------------------------: |
 |         Battery Inserts         |
 
-<a name="toggle"></a>
-
 # Toggle Switch
 
-We need a toggle switch for easy access to toggle the keyboard ON/OFF. This is the solution I proceeded with, inspired by community builds using the same toggle switch component in <a href="http://www.bstkbd.com/discord" target="_blank" style="color: #02c2db; text-decoration: underline;text-decoration-style: dotted;"> BastardKB discord community</a>.
+We need a toggle switch for easy access to toggle the keyboard ON/OFF.
 
-1. Re-purpose the TRRS cable hole in the case for the toggle switch. Use a deburring tool (or soldering iron) to increase the diameter of the hole if needed.
-2. For the specific toggle switches that I used, I oriented it in such a way that the pins of the toggle switches face the keycaps.
-
-<a name="cover"></a>
+1. Re-purpose the TRRS cable hole in the case for the toggle switch. Use a deburring tool (or soldering iron) to increase the diameter of the hole if needed
+2. Depending on the switches you used, you might need to orient the switch in such a way that the pins of the toggle switches face the keycaps
 
 # Battery Holder Cover
 
 The dimensions of the cover are such that it exactly fits the battery holder. Using some amount of force to secure it should keep it in place firmly without any locks/magnetic snap fits.
 
-However, inserts are provided for cylindrical magnets of dimensions 4mm*2mm both on the battery holder and the battery cover.
+Inserts are designed to work with cylindrical magnets of dimensions 4mm*2mm both on the battery holder and the battery cover.
 
 # Notes
 
-1. If the build is being done with a nice!nano or similar clone, the charge ICs onboard only have overcharge protection. It is strongly recommended make sure to use AA(14500 3.7v) cells that have their own protection circuit to prevent overdischarge/undervoltage situations. (Thanks to user casuanoob in the <a href="http://www.bstkbd.com/discord" target="_blank" style="color: #02c2db; text-decoration: underline;text-decoration-style: dotted;"> BastardKB discord community</a> for noting this).
+1. If the build is being done with a nice!nano or similar clone, the charge ICs onboard only have overcharge protection. It is strongly recommended make sure to use AA(14500 3.7v) cells that have their own protection circuit to prevent overdischarge/undervoltage situations
