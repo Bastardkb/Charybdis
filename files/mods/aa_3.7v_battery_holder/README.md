@@ -24,16 +24,16 @@ The files are in the `charybdis_nano` and `charybdis_mini` folder.
 
 ## Showcase
 
-| ![](images/cmini_top_closed_battery.jpg) | 
-|:--:| 
+| ![](images/cmini_top_closed_battery.jpg)  |
+| :---------------------------------------: |
 | Charybdis Mini With AA Battery (Top View) |
 
-| ![](images/cmini_bottom.jpg) | 
-|:--:| 
+|                              ![](images/cmini_bottom.jpg)                               |
+| :-------------------------------------------------------------------------------------: |
 | Charybdis Mini With AA Battery (Bottom View Showing Mill-Max Hotswap With Snap Fit PCB) |
 
-| ![](images/cmini_top_open_battery.jpg) | 
-|:--:| 
+|                 ![](images/cmini_top_open_battery.jpg)                 |
+| :--------------------------------------------------------------------: |
 | Charybdis Mini With AA Battery (Top View Without Battery Holder Cover) |
 
 ## Build guide
