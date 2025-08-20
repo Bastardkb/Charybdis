@@ -16,13 +16,13 @@ The files are in the `charybdis_nano` and `charybdis_mini` folder.
 
 ## Renders
 
-Charybdis Mini snap fit case:
+Charybdis Mini:
 
 | ![](images/CMini_v1_v11_snap_fit.jpeg) |
 | -------------------------------------- |
 |                                        |
 
-Charybdis Nano snap fit case:
+Charybdis Nano:
 
 | ![](images/charybdisnano_v2_v187_snap_fit.jpeg) |
 | ----------------------------------------------- |
@@ -32,11 +32,11 @@ Charybdis Nano snap fit case:
 
 This project is used to build the project "Charybdis Mini and Charybdis Nano with AA battery". Attached are images of the front and rear view of the Charybdis Mini case with snapfits and millmax-hotswappable PCBs.
 
-Charybdis Mini snap fit case bottom view:
+Charybdis Mini bottom view:
 
 ![](images/case_bottom.jpg)
 
-Charybdis Nano snap fit case top view:
+Charybdis Nano top view:
 ![](images/case_top.jpg)
 
 ## Installation
