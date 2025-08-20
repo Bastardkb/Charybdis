@@ -34,10 +34,10 @@ This project is used to build the project "Charybdis Mini and Charybdis Nano wit
 
 Charybdis Mini snap fit case bottom view:
 
-![](images/case_bottom.jpeg)
+![](images/case_bottom.jpg)
 
 Charybdis Nano snap fit case top view:
-![](images/case_top.jpeg)
+![](images/case_top.jpg)
 
 ## Installation
 
