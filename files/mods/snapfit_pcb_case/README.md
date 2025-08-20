@@ -32,11 +32,11 @@ Charybdis Nano snap fit case:
 
 This project is used to build the project "Charybdis Mini and Charybdis Nano with AA battery". Attached are images of the front and rear view of the Charybdis Mini case with snapfits and millmax-hotswappable PCBs.
 
-Charybdis Mini snap fit case bottom view (left):
+Charybdis Mini snap fit case bottom view:
 
 ![](images/case_bottom.jpeg)
 
-Charybdis Nano snmap fit case top view (left):
+Charybdis Nano snap fit case top view:
 ![](images/case_top.jpeg)
 
 ## Installation
