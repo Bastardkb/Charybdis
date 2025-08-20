@@ -10,6 +10,8 @@
     - [Upgraded inserts for the Static Bearing Mod](#upgraded-inserts-for-the-static-bearing-mod)
   - [Trackpad mod for the Charybdis](#trackpad-mod-for-the-charybdis)
   - [Alternative sensors](#alternative-sensors)
+  - [Snapfit PCB Case](#snapfit-pcb-case)
+  - [AA Battery Holder](#aa-battery-holder)
 - [Charybdis](#charybdis)
   - [Palm Rest](#palm-rest)
     - [Straight mod](#straight-mod)
@@ -18,8 +20,6 @@
   - [Modular adjustable tenting stand for Charybdis/Scylla](#modular-adjustable-tenting-stand-for-charybdisscylla)
     - [Base](#base)
     - [Variant with wrist wrest](#variant-with-wrist-wrest)
-  - [Snapfit PCB Case](#snapfit-pcb-case)
-  - [AA Battery Holder](#aa-battery-holder)
 - [Charybdis Nano](#charybdis-nano)
   - [Midglow PCB for the Charybdis Nano tents](#midglow-pcb-for-the-charybdis-nano-tents)
   - [Trackpad mod for the Charybdis Nano organic tents](#trackpad-mod-for-the-charybdis-nano-organic-tents)
@@ -133,6 +133,22 @@ Required hardware:
 
 There are files in the [`bottom_adapter_alternative_sensors`](./bottom_adapter_alternative_sensors/README.md) directory to accomodate PMW3389 and ADNS9800 sensor PCBs.
 
+## Snapfit PCB Case
+
+Made for the Charybdis Mini and Nano.
+
+Details: [Snapfit PCB Case](./snapfit_pcb_case/).
+
+![](./snapfit_pcb_case/images/case_bottom.jpg)
+
+## AA Battery Holder
+
+Made for the Charybdis Mini and Nano.
+
+Details: [AA Battery Holder](./aa_3.7v_battery_holder/).
+
+![](./aa_3.7v_battery_holder/images/cmini_top_closed_battery.jpg)
+
 
 # Charybdis
 
@@ -173,23 +189,6 @@ Details: [tenting-stand-with-wrist-pads/readme.md](tenting-stand-with-wrist-pads
 ### Variant with wrist wrest
 
 ![tending stand with wrist wrests](tenting-stand-with-wrist-pads/assets/home-with-pads.jpg)
-
-
-## Snapfit PCB Case
-
-Use snap fits to secure the PCB provided by [Bastard Keyboards](https://bastardkb.com/). [Snapfit PCB Case](./snapfit_pcb_case/) contains files for the right and left cases for the "Mini" and "Nano" versions of Charybdis.
-
-![](./snapfit_pcb_case/images/case_bottom.jpg)
-
-![](./snapfit_pcb_case/images/case_top.jpg)
-
-## AA Battery Holder
-
-Add AA battery (14500 3.7v Li-Ion battery) holders to the Charybdis. Increases the battery capacity usable for Charybdis to 2500-3800mAh. [AA Battery Holder](./aa_3.7v_battery_holder/) contains files for the right and left cases for the "Mini" and "Nano" versions of Charybdis.
-
-![](./aa_3.7v_battery_holder/images/cmini_top_closed_battery.jpg)
-
-![](./aa_3.7v_battery_holder/images/cmini_bottom.jpg)
 
 # Charybdis Nano
 
