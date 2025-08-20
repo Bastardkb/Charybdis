@@ -37,8 +37,7 @@ Charybdis Nano snmap fit case top view (left):
 ![](images/case_top.jpeg)
 
 # Installation
-Installation is trivial:
 
-1. Insert the PCBs from [Bastard Keyboards](https://bastardkb.com/) by bending them and locking them in the snap fits.
-2. Exercise caution when bending the thumb PCB cluster as they might not be as flexible as the 3x6 or 3x5 PCB plates.
-3. In case you are unable to fit the PCBs in the snap fits: One potential check would be to ensure there are no supports under the snap fits.
+1. Insert the flexible PCBs by bending them and locking them in the snap fits
+1. Exercise caution when bending the thumb PCB cluster as they might not be as flexible as the 3x6 or 3x5 PCB plates
+1. In case you are unable to fit the PCBs in the snap fits: One potential check would be to ensure there are no supports under the snap fits
