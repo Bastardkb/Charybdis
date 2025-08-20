@@ -10,22 +10,23 @@ To make the Charybdis hot swappable, some force is required to keep the PCB push
 
 The snap fit files are for the Charybdis Mini. The rest of the keyboards have not been tested.
 
-# 3D Model Files
+## 3D models
 
 The files are in the `charybdis_nano` and `charybdis_mini` folder.
 
-
-# Renders
+## Renders
 
 Charybdis Mini snap fit case (right):
 
-![](images/CMini_v1_v11_snap_fit.jpeg)
+| ![](images/CMini_v1_v11_snap_fit.jpeg) | 
+|:--:| 
+| Charybdis Nano snap fit case (right) |
 
-Charybdis Nano snap fit case (right):
+| ![](images/charybdisnano_v2_v187_snap_fit.jpeg)| 
+|:--:| 
+| Charybdis Nano snap fit case (right) |
 
-![](images/charybdisnano_v2_v187_snap_fit.jpeg)
-
-# Build images
+## Build images
 
 This project is used to build the project "Charybdis Mini and Charybdis Nano with AA battery". Attached are images of the front and rear view of the Charybdis Mini case with snapfits and millmax-hotswappable PCBs.
 
@@ -36,7 +37,7 @@ Charybdis Mini snap fit case bottom view (left):
 Charybdis Nano snmap fit case top view (left):
 ![](images/case_top.jpeg)
 
-# Installation
+## Installation
 
 1. Insert the flexible PCBs by bending them and locking them in the snap fits
 1. Exercise caution when bending the thumb PCB cluster as they might not be as flexible as the 3x6 or 3x5 PCB plates

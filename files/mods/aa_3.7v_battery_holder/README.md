@@ -1,29 +1,35 @@
-## Verification
+# Battery holder for wireless builds
 
-I have only verified the prints for the below models:
+The conventional wireless build for the Charybdis line of keyboards uses Li-Ion batteries, like the 401030 130mAh battery. 
+The internal housing, which is specifically designed to be a wired keyboard, limits the battery size. 
+
+Lower battery sizes offer less battery capacity, thereby reducing the battery life on the keyboard.
+
+ZMK battery life can be computed here: https://zmk.dev/power-profiler
+
+## Compatibility
+The following models have been confirmed working:
 
 1. Charybdis Mini with AA battery (14500 3.7v Li-Ion battery)
-2. Snap Fit Cases for Charybdis Mini(as this uses the same base design for snap fits present in point#1)
+1. Snap Fit Cases for Charybdis Mini
 
 - versions for Charybdis Nano are not tested
 - compatibility with tenting mechanisms are not tested
 
 # Showcase
 
-| ![Charybdis Mini With AA Battery (Top View)](images/cmini_top_closed_battery.jpg "Charybdis Mini With AA Battery (Top View)") | 
+| ![](images/cmini_top_closed_battery.jpg) | 
 |:--:| 
-| *Charybdis Mini With AA Battery (Top View).* |
+| Charybdis Mini With AA Battery (Top View) |
 
-| ![Charybdis Mini With AA Battery (Bottom View Showing Mill-Max Hotswap With Snap Fit PCB)](images/cmini_bottom.jpg "Charybdis Mini With AA Battery (Bottom View Showing Mill-Max Hotswap With Snap Fit PCB)") | 
+| ![](images/cmini_bottom.jpg) | 
 |:--:| 
-| *Charybdis Mini With AA Battery (Bottom View Showing Mill-Max Hotswap With Snap Fit PCB).* |
+| Charybdis Mini With AA Battery (Bottom View Showing Mill-Max Hotswap With Snap Fit PCB) |
 
-| ![Charybdis Mini With AA Battery (Top View Without Battery Holder Cover)](images/cmini_top_open_battery.jpg "Charybdis Mini With AA Battery (Top View Without Battery Holder Cover)") | 
+| ![](images/cmini_top_open_battery.jpg) | 
 |:--:| 
-| *Charybdis Mini With AA Battery (Top View Without Battery Holder Cover).* |
+| Charybdis Mini With AA Battery (Top View Without Battery Holder Cover) |
 
-#### Regarding Snap Fits
-The conventional build for the Charybdis line of keyboards is to solder the switches to the PCB. This helps to hold the PCB firmly in place. To make the Charybdis hot swappable, some force is required to keep the PCB pushed against the keyboard case. Using copious amounts of hot glue and/or tape is one option to achieve this. Another way is to handwire each switch. These solutions seemed cumbersome to me.
 
 #### Regarding Batteries for Wireless Builds
 The conventional wireless build for the Charybdis line of keyboards uses Li-Ion batteries, like the 401030 130mAh battery. The internal housing, which is specifically designed to be a wired keyboard, limits the battery size. Lower battery sizes offer less battery capacity, thereby reducing the battery life on the keyboard (<a href="https://zmk.dev/power-profiler" target="_blank" style="color: #02c2db; text-decoration: underline;text-decoration-style: dotted;"> ZMK battery life can be computed here</a>).
