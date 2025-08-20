@@ -12,11 +12,13 @@ This mod provides (14500 3.7v Li-Ion battery) holders to the Charybdis. This wil
 ## Compatibility
 The following models have been confirmed working:
 
-1. Charybdis Mini with AA battery (14500 3.7v Li-Ion battery)
-1. Snap Fit Cases for Charybdis Mini
+- Charybdis Mini with AA battery (14500 3.7v Li-Ion battery)
+- Snap Fit Cases for Charybdis Mini
 
-- versions for Charybdis Nano are not tested
-- compatibility with tenting mechanisms are not tested
+The following have not been tested:
+
+- Charybdis Nano
+- Tenting mechanisms
 
 ## 3D models
 
