@@ -1,14 +1,14 @@
 # Snap Fit Cases for Charybdis Mini and Charybdis Nano
 
-The conventional build for the Charybdis line of keyboards is to solder the switches to the PCB. This helps to hold the PCB firmly in place. \
+The conventional build for the Charybdis line of keyboards is to solder the switches to the PCB. This helps to hold the PCB firmly in place.
 
 To make the Charybdis hot swappable, some force is required to keep the PCB pushed against the keyboard case. This can be achieved with:
 
 - using copious amounts of hot glue and/or tape
-- handwire each hotswap socket 
+- handwire each hotswap socket
 - the snap fits in this repository
 
-The snap fit files are for the Charybdis Mini. The rest of the keyboards have not been tested.
+The snap fit files are tested for the Charybdis Mini. The rest of the keyboards have not been tested.
 
 ## 3D models
 
