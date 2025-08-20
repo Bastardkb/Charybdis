@@ -36,7 +36,7 @@ Charybdis Mini bottom view:
 
 ![](images/case_bottom.jpg)
 
-Charybdis Nano top view:
+Charybdis Mini top view:
 ![](images/case_top.jpg)
 
 ## Installation
