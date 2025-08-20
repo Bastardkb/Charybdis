@@ -19,8 +19,8 @@ Follow the wireless build guide detailed in [the 280Zo charybdis wireless mini b
 | Part                                                                                                                                                                                           | Quantity |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | 14500 3.7v AA Battery (14mm*50mm)                                                                                                                                                   | 2        |
-| [https://www.aliexpress.com/item/2251832697974737.html?spm=a2g0o.order_list.order_list_main.104.45091802w1A1m8](AA Battery Contact Plates (max dimensions 10mm*10mm))                          | 2 pairs  |
-| [https://www.aliexpress.us/item/3256808105874261.html?spm=a2g0o.order_list.order_list_main.11.45091802w1A1m8&gatewayAdapt=glo2usa](Vertical Right Angle Toggle Switch (7mm MTS-102C3 variant)) | 1        |
+| [https://www.aliexpress.com/item/2251832697974737.html?spm=a2g0o.order_list.order_list_main.104.45091802w1A1m8](AA Battery Contact Plates - max dimensions 10mm*10mm)                          | 2 pairs  |
+| [https://www.aliexpress.us/item/3256808105874261.html?spm=a2g0o.order_list.order_list_main.11.45091802w1A1m8&gatewayAdapt=glo2usa](Vertical Right Angle Toggle Switch  - 7mm MTS-102C3 variant) | 1        |
 | Cylindrical Magnets (4mm*2mm)                                                                                                                                                       | 1        |
 
 # Battery Connections
