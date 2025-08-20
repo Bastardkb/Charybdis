@@ -5,9 +5,8 @@ I have only verified the prints for the below models:
 1. Charybdis Mini with AA battery (14500 3.7v Li-Ion battery)
 2. Snap Fit Cases for Charybdis Mini(as this uses the same base design for snap fits present in point#1)
 
-Versions for Charybdis Nano are not yet tested, this document will be updated in the future when it is tested.
-
-Compatibility with tenting mechanisms are not yet tested. This document and the files will be updated in the future based on tests/feedback.
+- versions for Charybdis Nano are not tested
+- compatibility with tenting mechanisms are not tested
 
 # Showcase
 
@@ -23,12 +22,8 @@ Compatibility with tenting mechanisms are not yet tested. This document and the 
 |:--:| 
 | *Charybdis Mini With AA Battery (Top View Without Battery Holder Cover).* |
 
-Charybdis is an ergonomic, open source keyboard designed and developed by <a href="https://github.com/Bastardkb/Charybdis" target="_blank" style="color: #02c2db; text-decoration: underline;text-decoration-style: dotted;"> Bastardkb</a>.
-
 #### Regarding Snap Fits
 The conventional build for the Charybdis line of keyboards is to solder the switches to the PCB. This helps to hold the PCB firmly in place. To make the Charybdis hot swappable, some force is required to keep the PCB pushed against the keyboard case. Using copious amounts of hot glue and/or tape is one option to achieve this. Another way is to handwire each switch. These solutions seemed cumbersome to me.
-
-My first contribution towards this project is the addition of snap fits to secure the PCB provided by <a href="https://bastardkb.com/" target="_blank" style="color: #02c2db; text-decoration: underline;text-decoration-style: dotted;"> Bastard Keyboards</a>.
 
 #### Regarding Batteries for Wireless Builds
 The conventional wireless build for the Charybdis line of keyboards uses Li-Ion batteries, like the 401030 130mAh battery. The internal housing, which is specifically designed to be a wired keyboard, limits the battery size. Lower battery sizes offer less battery capacity, thereby reducing the battery life on the keyboard (<a href="https://zmk.dev/power-profiler" target="_blank" style="color: #02c2db; text-decoration: underline;text-decoration-style: dotted;"> ZMK battery life can be computed here</a>).
