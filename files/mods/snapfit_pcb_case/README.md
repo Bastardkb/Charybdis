@@ -16,15 +16,13 @@ The files are in the `charybdis_nano` and `charybdis_mini` folder.
 
 ## Renders
 
-Charybdis Mini snap fit case (right):
-
 | ![](images/CMini_v1_v11_snap_fit.jpeg) |
 | :------------------------------------: |
-|  Charybdis Nano snap fit case (right)  |
+|  Charybdis Mini snap fit case  |
 
 | ![](images/charybdisnano_v2_v187_snap_fit.jpeg) |
 | :---------------------------------------------: |
-|      Charybdis Nano snap fit case (right)       |
+|      Charybdis Nano snap fit case       |
 
 ## Build images
 
