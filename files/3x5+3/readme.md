@@ -46,9 +46,9 @@ Any of the Skeletyl v4 plates can be used. The tenting models are in the Chaybdi
   
 ## HighTrackball and LowTrackball
 This is a mod of the Skeletyl v3 to add the trackball mount to the inside of the keyboard.   
-**A thick base plate (no model provided) or tenting is required for either version to sit flush on a surface.** 
+**A thick base plate or tenting is required for either version to sit flush on a surface.** 
 
-*Note:* See [Low Trackball File Variants](#low-trackball-file-variants) for a flat plat that works for the 3x5+3 Low Trackball build. 
+*Note:* See [High Trackball File Variants](#high-trackball-file-variants) and [Low Trackball File Variants](#low-trackball-file-variants) for flat plates that work for the 3x5+3 High and Low Trackball builds. 
 
 The tall version will not interfere with the base plate allowing any Skeletyl v3 base plates and tents to be used. 
 
@@ -66,6 +66,14 @@ Low Version
   
 The required cut in the plate to fit the trackball in the low version.  
 ![](../../pics/1am.png)
+
+### High Trackball File Variants
+
+[flat_plate.stl](./HighTrackball/flat_plate.stl) lets you use the high trackball Charybdis flat on a desk, without a tent. It is the same as the low trackball [flat_plate.stl](./LowTrackball/flat_plate.stl), only without the cutout for the ball: the high trackball sits above the plate and never touches it. The two halves are mirrored, so print the plate once as is and once mirrored. [flat_plate.3mf](./HighTrackball/flat_plate.3mf) is the same plate in a format that is easier to open and edit.
+
+![charybdis_3x5+3_high_flat_front](./HighTrackball/assets/charybdis_3x5+3_high_flat_front.jpg)
+
+![charybdis_3x5+3_high_flat_close](./HighTrackball/assets/charybdis_3x5+3_high_flat_close.jpg)
 
 ### Low Trackball File Variants
 
