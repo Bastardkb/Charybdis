@@ -132,7 +132,7 @@ Required hardware:
 
 ## Alternative sensors
 
-There are files in the [`bottom_adapter_alternative_sensors`](./bottom_adapter_alternative_sensors/README.md) directory to accomodate PMW3389 and ADNS9800 sensor PCBs.
+There are files in the [`bottom_adapter_alternative_sensors`](./bottom_adapter_alternative_sensors/README.md) directory to accomodate PMW3389 and ADNS9800 sensor PCBs, and the PAW3360/3389 module sold on AliExpress.
 
 ## Snapfit PCB Case
 
