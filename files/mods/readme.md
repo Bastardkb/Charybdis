@@ -30,6 +30,8 @@
   - [Chair Mount Plate](#chair-mount-plate)
   - [Modular Thumb Cluster](#modular-thumb-cluster)
   - [Sensor cover](#sensor-cover)
+- [Charybdis 3x5+3](#charybdis-3x53)
+  - [Kailh PG1353 (Choc V2) switches](#kailh-pg1353-choc-v2-switches)
 
 # Charybdis - generic
 
@@ -274,3 +276,13 @@ A trackball sensor cover to be used in combination with the original bottom cove
 ![](./sensor-cover/pics/full-sensor-cover.png)
 
 File is in [trackball-cover](trackball-cover).
+
+# Charybdis 3x5+3
+
+## Kailh PG1353 (Choc V2) switches
+
+Made for the 3x5+3 High Trackball case. PG1353 latches get no grip on printed plastic, so the switch windows have staples melted into them for the latches to catch on.
+
+Details: [Kailh PG1353 (Choc V2) switches](./pg1353_choc_v2/).
+
+![](./pg1353_choc_v2/images/switch_retained.jpg)
