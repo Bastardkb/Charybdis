@@ -23,6 +23,7 @@
   - [Modular adjustable tenting stand for Charybdis/Scylla](#modular-adjustable-tenting-stand-for-charybdisscylla)
     - [Base](#base)
     - [Variant with wrist wrest](#variant-with-wrist-wrest)
+  - [Tripod mount plate](#tripod-mount-plate)
 - [Charybdis Nano](#charybdis-nano)
   - [Midglow PCB for the Charybdis Nano tents](#midglow-pcb-for-the-charybdis-nano-tents)
   - [12mm Bosch BTU](#12mm-bosch-btu)
@@ -30,8 +31,6 @@
   - [Chair Mount Plate](#chair-mount-plate)
   - [Modular Thumb Cluster](#modular-thumb-cluster)
   - [Sensor cover](#sensor-cover)
-- [Charybdis 3x5+3](#charybdis-3x53)
-  - [Kailh PG1353 (Choc V2) switches](#kailh-pg1353-choc-v2-switches)
 
 # Charybdis - generic
 
@@ -77,6 +76,8 @@ Links:
 
 ## Static Bearing Mod
 
+*This mod was made by a community member*.
+
 Pretty smooth, *less expensive*.
 
 ![](../../pics/1ad.jpeg)
@@ -93,6 +94,8 @@ Links:
 
 ## Static Bearing Mod - with screws
 
+*This mod was made by a community member*.
+
 Uses screws instead of pression fit to hold the ball inserts in the model. You will need M3 4mm screws.
 
 Two versions : with 3.175mm balls, and 4mm balls.
@@ -104,6 +107,8 @@ Print:
 
 
 ### Upgraded inserts for the Static Bearing Mod
+
+*This mod was made by a community member*.
 
 A bit taller of inserts, at 5mm tall, and a little more pronounced recess for the bearing ball.
 
@@ -134,9 +139,13 @@ Required hardware:
 
 ## Alternative sensors
 
-There are files in the [`bottom_adapter_alternative_sensors`](./bottom_adapter_alternative_sensors/README.md) directory to accomodate PMW3389 and ADNS9800 sensor PCBs, and the PAW3360/3389 module sold on AliExpress.
+*This mod was made by a community member*.
+
+There are files in the [`bottom_adapter_alternative_sensors`](./bottom_adapter_alternative_sensors/README.md) directory to accomodate PMW3389 and ADNS9800 sensor PCBs.
 
 ## Snapfit PCB Case
+
+*This mod was made by a community member*.
 
 Made for the Charybdis Mini and Nano.
 
@@ -145,6 +154,8 @@ Details: [Snapfit PCB Case](./snapfit_pcb_case/).
 ![](./snapfit_pcb_case/images/case_bottom.jpg)
 
 ## AA Battery Holder
+
+*This mod was made by a community member*.
 
 Made for the Charybdis Mini and Nano.
 
@@ -155,9 +166,13 @@ Details: [AA Battery Holder](./aa_3.7v_battery_holder/).
 
 ## Trackball retainers
 
+*This mod was made by a community member*.
+
 Use in place of the regular top adapter to prevent balls from falling.
 
 ### PMW3360 PCB
+
+*This mod was made by a community member*.
 
 The height of the model is adjusted for [static-beraing-screws](static-bearing-screws).
 
@@ -170,6 +185,8 @@ There are both 3x5 and 4x6 versions.
 
 ### 4x6 / PMW3610
 
+*This mod was made by a community member*.
+
 Specific model made for the PMW3610 PCB (for eg. bluetooth builds). Made for Zirconia 0.3mm ceramic balls.
 
 ![](../../pics/1au.jpg)
@@ -179,6 +196,8 @@ Credit: Vzhao-L on Github.
 # Charybdis
 
 ## Palm Rest
+
+*This mod was made by a community member*.
 
 Those palm rests are to be placed at the bottom of the keyboard, to support your palms. There are both sloped and straight versions.
 
@@ -200,11 +219,15 @@ The files for the Charybdis and Scylla are different:
 
 ## Palm Rest for Charybdis 4x6 MKII
 
+*This mod was made by a community member*.
+
 Wrist rests designed for larger cloth rubber mats like this one here: <https://aliexpress.com/item/1005004557222656.html>
 
 ![](4x6-palm-rest-mkII/pic.jpg)
 
 ## Modular adjustable tenting stand for Charybdis/Scylla
+
+*This mod was made by a community member*.
 
 Details: [tenting-stand-with-wrist-pads/readme.md](tenting-stand-with-wrist-pads/readme.md)
 
@@ -215,6 +238,17 @@ Details: [tenting-stand-with-wrist-pads/readme.md](tenting-stand-with-wrist-pads
 ### Variant with wrist wrest
 
 ![tending stand with wrist wrests](tenting-stand-with-wrist-pads/assets/home-with-pads.jpg)
+
+## Tripod mount plate
+
+*This mod was made by a community member*.
+
+![](4x6-tripod-screw/pic.jpg)
+
+This hefty plate mounts directly under the Charybdis plate and has an insert for a heated screw insert.
+You can then screw it directly onto a tripod or magic arms. Screws into a standard 1/4 inch screw.
+
+File is in `mods/4x6-tripod-screw`.
 
 # Charybdis Nano
 
@@ -227,6 +261,8 @@ Check repo here: https://github.com/Bastardkb/Charybdis-nano-tent-glow
 **Please note only the organic tent is compatible with the midglow rgb !**
 
 ## 12mm Bosch BTU
+
+*This mod was made by a community member*.
 
 This is an adapter for the BALL TRANSFER UNIT KU-B8-OFK R053010810 from Bosch Rexroth.
 
@@ -251,12 +287,18 @@ Required hardware:
 ![](../../pics/1ah.png)
 
 ## Chair Mount Plate
+
+*This mod was made by a community member*.
+
 Alternate bottom plate for mounting to a chair or desk using standard camera mounting equipment. Fits 1/4 inch mounting bolt (1/4-20 UNC).
 Found in the `3x5 nano/chairMountPlate` folder.
 
 ![](../../pics/1aj.png)
 
 ## Modular Thumb Cluster
+
+*This mod was made by a community member*.
+
 Based on the 3x5 Skeletyl/Charybdis Nano. This has a slightly modified plate, a 3 switch thumb cluster (ala Skeletyl), a 2 switch thumb cluster with the mount for a trackball/trackpad (ala Charybdis Nano) and a modified main body
 
 Note: Below picture uses a standard Skeletyl main body that was cut to make room for the modular thumb cluster but a purpose printed main body should give better results!
@@ -271,18 +313,10 @@ Note: Below picture uses a standard Skeletyl main body that was cut to make room
 
 ## Sensor cover
 
+*This mod was made by a community member*.
+
 A trackball sensor cover to be used in combination with the original bottom cover. Protects the sensor from outside elements.
 
 ![](./sensor-cover/pics/full-sensor-cover.png)
 
 File is in [trackball-cover](trackball-cover).
-
-# Charybdis 3x5+3
-
-## Kailh PG1353 (Choc V2) switches
-
-Made for the 3x5+3 High Trackball case. PG1353 latches get no grip on printed plastic, so the switch windows have staples melted into them for the latches to catch on.
-
-Details: [Kailh PG1353 (Choc V2) switches](./pg1353_choc_v2/).
-
-![](./pg1353_choc_v2/images/switch_retained.jpg)
