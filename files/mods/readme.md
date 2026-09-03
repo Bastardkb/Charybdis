@@ -23,7 +23,6 @@
   - [Modular adjustable tenting stand for Charybdis/Scylla](#modular-adjustable-tenting-stand-for-charybdisscylla)
     - [Base](#base)
     - [Variant with wrist wrest](#variant-with-wrist-wrest)
-  - [Tripod mount plate](#tripod-mount-plate)
 - [Charybdis Nano](#charybdis-nano)
   - [Midglow PCB for the Charybdis Nano tents](#midglow-pcb-for-the-charybdis-nano-tents)
   - [12mm Bosch BTU](#12mm-bosch-btu)
@@ -238,18 +237,6 @@ Details: [tenting-stand-with-wrist-pads/readme.md](tenting-stand-with-wrist-pads
 ### Variant with wrist wrest
 
 ![tending stand with wrist wrests](tenting-stand-with-wrist-pads/assets/home-with-pads.jpg)
-
-## Tripod mount plate
-
-*This mod was made by a community member*.
-
-![](4x6-tripod-screw/pic.jpg)
-
-This hefty plate mounts directly under the Charybdis plate and has an insert for a heated screw insert.
-You can then screw it directly onto a tripod or magic arms. Screws into a standard 1/4 inch screw.
-
-File is in `mods/4x6-tripod-screw`.
-
 
 # Charybdis Nano
 
